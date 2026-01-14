@@ -1,0 +1,6 @@
+# Robots.txt for Glosario de Odotoponimia
+
+User-agent: *
+Allow: /
+
+Sitemap: https://tu-sitio.netlify.app/sitemap.xml

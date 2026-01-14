@@ -1,0 +1,1889 @@
+{
+  "introduccion": "La Odotoponimia parte de la referencia de la palabra \"odos\", que en griego significa camino.",
+  "terminos": [
+    {
+      "id": "abedular",
+      "termino": "Abedular",
+      "definicion": "Sitio poblado de abedules.",
+      "letra": "A"
+    },
+    {
+      "id": "abrevadero",
+      "termino": "Abrevadero",
+      "definicion": "Sitio donde se da a beber al ganado.",
+      "letra": "A"
+    },
+    {
+      "id": "acantilado",
+      "termino": "Acantilado",
+      "definicion": "Dicho de una costa: cortada verticalmente o a plomo.",
+      "letra": "A"
+    },
+    {
+      "id": "acebeda",
+      "termino": "Acebeda",
+      "definicion": "Sitio poblado de acebos.",
+      "letra": "A"
+    },
+    {
+      "id": "acequia",
+      "termino": "Acequia",
+      "definicion": "Zanja o canal por donde se conducen las aguas para regar y para otros fines.",
+      "letra": "A"
+    },
+    {
+      "id": "acena",
+      "termino": "Aceña",
+      "definicion": "Molino harinero movido por agua. Noria de cajones para riego a poca altura sobre el cauce de un río.",
+      "letra": "A"
+    },
+    {
+      "id": "acera",
+      "termino": "Acera",
+      "definicion": "Orilla de la calle o de otra vía pública, por lo general ligeramente elevada y enlosada, situada junto a las fachadas de las casas y particularmente reservada al tránsito de peatones.",
+      "letra": "A"
+    },
+    {
+      "id": "acirate",
+      "termino": "Acirate",
+      "definicion": "Escalón formado al abancalar terrenos y que sirve a veces de linde entre fincas.",
+      "letra": "A"
+    },
+    {
+      "id": "alberca",
+      "termino": "Alberca",
+      "definicion": "Depósito artificial de agua, con muros de fábrica, para el riego.",
+      "letra": "A"
+    },
+    {
+      "id": "albufera",
+      "termino": "Albufera",
+      "definicion": "Laguna litoral, en costa baja, de agua salina o ligeramente salobre, separada del mar por una lengua o cordón de arenas, como la de Valencia o la de Alcudia, en Mallorca.",
+      "letra": "A"
+    },
+    {
+      "id": "alcor",
+      "termino": "Alcor",
+      "definicion": "Colina o collado.",
+      "letra": "A"
+    },
+    {
+      "id": "algar",
+      "termino": "Algar",
+      "definicion": "Cueva o caverna.",
+      "letra": "A"
+    },
+    {
+      "id": "alijar",
+      "termino": "Alijar",
+      "definicion": "Terreno silvestre con vegetación arbustiva. En la ciudad de Toledo, Los Alijares es el nombre de una zona concreta situada en las afueras.",
+      "letra": "A"
+    },
+    {
+      "id": "almiar",
+      "termino": "Almiar",
+      "definicion": "Montón grande de paja o heno, al aire libre, formado frecuentemente en torno a un palo vertical para conservarlo todo el año.",
+      "letra": "A"
+    },
+    {
+      "id": "altozano",
+      "termino": "Altozano",
+      "definicion": "Cerro o monte de poca altura en terreno llano.",
+      "letra": "A"
+    },
+    {
+      "id": "altiplanicie",
+      "termino": "Altiplanicie",
+      "definicion": "Meseta de mucha extensión, situada a mucha altitud.",
+      "letra": "A"
+    },
+    {
+      "id": "alud",
+      "termino": "Alud",
+      "definicion": "Gran masa de nieve que se derrumba de los montes con violencia y estrépito.",
+      "letra": "A"
+    },
+    {
+      "id": "alveo",
+      "termino": "Álveo",
+      "definicion": "(Madre) Cauce de un río o de un arroyo.",
+      "letra": "A"
+    },
+    {
+      "id": "andariego",
+      "termino": "Andariego",
+      "definicion": "Que anda mucho. Que anda de un sitio a otro.",
+      "letra": "A"
+    },
+    {
+      "id": "andurrial",
+      "termino": "Andurrial",
+      "definicion": "Paraje extraviado o fuera de camino.",
+      "letra": "A"
+    },
+    {
+      "id": "angostura",
+      "termino": "Angostura",
+      "definicion": "Paso estrecho.",
+      "letra": "A"
+    },
+    {
+      "id": "anticlinal",
+      "termino": "Anticlinal",
+      "definicion": "Dicho de un pliegue de las capas de un terreno: que tiene en su núcleo los materiales más antiguos.",
+      "letra": "A"
+    },
+    {
+      "id": "apacheta",
+      "termino": "Apacheta",
+      "definicion": "Lugar elevado de caminos o montañas (con forma cónica) al que se atribuye carácter sagrado según antiguas tradiciones indígenas.",
+      "letra": "A"
+    },
+    {
+      "id": "apartadero",
+      "termino": "Apartadero",
+      "definicion": "Pedazo de terreno contiguo a los caminos que se deja baldío para que descansen y pasten los ganados y caballerías que van de paso.",
+      "letra": "A"
+    },
+    {
+      "id": "aprisco",
+      "termino": "Aprisco",
+      "definicion": "Paraje donde los pastores recogen el ganado para resguardarlo de la intemperie.",
+      "letra": "A"
+    },
+    {
+      "id": "arcen",
+      "termino": "Arcén",
+      "definicion": "En una carretera, margen reservado, a un lado y otro de la calzada, para uso de peatones.",
+      "letra": "A"
+    },
+    {
+      "id": "argayo",
+      "termino": "Argayo",
+      "definicion": "Desprendimiento de tierra y piedras por la ladera de un monte.",
+      "letra": "A"
+    },
+    {
+      "id": "arroyo",
+      "termino": "Arroyo",
+      "definicion": "Corriente de agua de pequeña longitud y caudal irregular.",
+      "letra": "A"
+    },
+    {
+      "id": "artesa",
+      "termino": "Artesa",
+      "definicion": "Cuenca fluvial de reducido tamaño.",
+      "letra": "A"
+    },
+    {
+      "id": "asenderear",
+      "termino": "Asenderear",
+      "definicion": "Hacer o abrir senderos.",
+      "letra": "A"
+    },
+    {
+      "id": "aspereza",
+      "termino": "Aspereza",
+      "definicion": "Desigualdad del terreno, que lo hace escabroso y difícil para caminar por él.",
+      "letra": "A"
+    },
+    {
+      "id": "atajo",
+      "termino": "Atajo",
+      "definicion": "Senda para evitar los rodeos de un camino, casi siempre cruzando terrenos difíciles.",
+      "letra": "A"
+    },
+    {
+      "id": "atalaya",
+      "termino": "Atalaya",
+      "definicion": "Torre hecha comúnmente en lugar alto, para registrar desde ella el campo o el mar y dar aviso de lo que se descubre.",
+      "letra": "A"
+    },
+    {
+      "id": "atascadero",
+      "termino": "Atascadero",
+      "definicion": "Atolladero = Lodazal o sitio donde se atascan los carruajes, las caballerías o las personas.",
+      "letra": "A"
+    },
+    {
+      "id": "atolladero",
+      "termino": "Atolladero",
+      "definicion": "Barrizal o pradera encenagada, difícil o imposible de atravesar para vehículos, caballerías o personas.",
+      "letra": "A"
+    },
+    {
+      "id": "atrochar",
+      "termino": "Atrochar",
+      "definicion": "Ir por la trocha o a campo traviesa para llegar más pronto que por el camino al sitio adonde se dirige.",
+      "letra": "A"
+    },
+    {
+      "id": "autopista",
+      "termino": "Autopista",
+      "definicion": "Carretera con calzadas separadas para los dos sentidos de la circulación, cada una de ellas con dos o más carriles, sin cruces a nivel.",
+      "letra": "A"
+    },
+    {
+      "id": "autovia",
+      "termino": "Autovía",
+      "definicion": "Carretera con calzadas separadas para los dos sentidos de la circulación, cuyas entradas y salidas no se someten a las exigencias de seguridad de las autopistas.",
+      "letra": "A"
+    },
+    {
+      "id": "avenida",
+      "termino": "Avenida",
+      "definicion": "Circulación de agua desde aguas arriba hasta la posición del observador. Camino que conduce a un pueblo o paraje determinado.",
+      "letra": "A"
+    },
+    {
+      "id": "azaber",
+      "termino": "Azaber",
+      "definicion": "Cauce para el sobrante de riego.",
+      "letra": "A"
+    },
+    {
+      "id": "azagador",
+      "termino": "Azagador",
+      "definicion": "Vereda, camino por donde las ovejas y cabras van una tras otra.",
+      "letra": "A"
+    },
+    {
+      "id": "azud",
+      "termino": "Azud",
+      "definicion": "Máquina en forma de rueda que, movida por la corriente de un río, saca agua para regar los campos. Barrera hecha en los ríos con el fin de facilitar el desvío de parte del caudal para riego y otros usos.",
+      "letra": "A"
+    },
+    {
+      "id": "bahia",
+      "termino": "Bahía",
+      "definicion": "Entrada natural de mar en la costa, de extensión considerable pero generalmente menor que la de un golfo.",
+      "letra": "B"
+    },
+    {
+      "id": "bancal",
+      "termino": "Bancal",
+      "definicion": "Rellano de tierra que se hace en un terreno pendiente, y que se aprovecha para el cultivo. Transforma las superficies inclinadas en escalonadas.",
+      "letra": "B"
+    },
+    {
+      "id": "barranco",
+      "termino": "Barranco",
+      "definicion": "Despeñadero, precipicio. Quiebra o surco producidos en la tierra por las corrientes o avenidas de las aguas.",
+      "letra": "B"
+    },
+    {
+      "id": "batan",
+      "termino": "Batán",
+      "definicion": "Máquina generalmente hidráulica, compuesta de gruesos mazos de madera, movidos por un eje, para golpear, desengrasar y enfurtir los paños.",
+      "letra": "B"
+    },
+    {
+      "id": "berma",
+      "termino": "Berma",
+      "definicion": "En ingeniería vial, es una franja que se encuentra al borde del camino, a veces más elevada, que puede servir como zona de seguridad o drenaje.",
+      "letra": "B"
+    },
+    {
+      "id": "berrocal",
+      "termino": "Berrocal",
+      "definicion": "Sitio lleno de peñascos graníticos redondeados de granito, de formas esferoidales o elipsoidales, llamados berruecos o bolos.",
+      "letra": "B"
+    },
+    {
+      "id": "boca",
+      "termino": "Boca",
+      "definicion": "Entrada o salida. Abertura, agujero.",
+      "letra": "B"
+    },
+    {
+      "id": "boqueron",
+      "termino": "Boquerón",
+      "definicion": "Abertura grande.",
+      "letra": "B"
+    },
+    {
+      "id": "borda",
+      "termino": "Borda",
+      "definicion": "En el Pirineo, cabaña destinada a albergue de pastores y ganado.",
+      "letra": "B"
+    },
+    {
+      "id": "bosque",
+      "termino": "Bosque",
+      "definicion": "Sitio poblado de árboles y matas.",
+      "letra": "B"
+    },
+    {
+      "id": "brana",
+      "termino": "Braña",
+      "definicion": "Pasto de verano, generalmente en laderas de montaña, con praderas y agua abundante.",
+      "letra": "B"
+    },
+    {
+      "id": "brena",
+      "termino": "Breña",
+      "definicion": "Tierra quebrada entre peñas y poblada de maleza.",
+      "letra": "B"
+    },
+    {
+      "id": "bulevar",
+      "termino": "Bulevar",
+      "definicion": "Calle generalmente ancha y con árboles.",
+      "letra": "B"
+    },
+    {
+      "id": "cabanero",
+      "termino": "Cabañero",
+      "definicion": "(Cañada) en Aragón es una vía pecuaria tradicional, es decir, un camino destinado al tránsito del ganado, especialmente durante las trashumancias.",
+      "letra": "C"
+    },
+    {
+      "id": "cabo",
+      "termino": "Cabo",
+      "definicion": "Lengua de tierra que penetra en el mar.",
+      "letra": "C"
+    },
+    {
+      "id": "cabrera",
+      "termino": "Cabrera",
+      "definicion": "Paraje abrupto, por donde las cabras son los únicos animales domésticos capaces de andar.",
+      "letra": "C"
+    },
+    {
+      "id": "cacera",
+      "termino": "Cacera",
+      "definicion": "Zanja o canal por donde se conduce el agua para regar.",
+      "letra": "C"
+    },
+    {
+      "id": "cacumen",
+      "termino": "Cacumen",
+      "definicion": "Altura. Cumbre en los montes.",
+      "letra": "C"
+    },
+    {
+      "id": "cala",
+      "termino": "Cala",
+      "definicion": "Ensenada pequeña.",
+      "letra": "C"
+    },
+    {
+      "id": "callao",
+      "termino": "Callao",
+      "definicion": "(Guijarro) Terreno llano y cubierto de cantos rodados.",
+      "letra": "C"
+    },
+    {
+      "id": "calle",
+      "termino": "Calle",
+      "definicion": "Vía pública, habitualmente asfaltada o empedrada, entre edificios o solares.",
+      "letra": "C"
+    },
+    {
+      "id": "calvero",
+      "termino": "Calvero",
+      "definicion": "Paraje sin árboles en lo interior de un bosque.",
+      "letra": "C"
+    },
+    {
+      "id": "calzada",
+      "termino": "Calzada",
+      "definicion": "Camino pavimentado y ancho, ha quedado reservado de hecho, para las construcciones del Imperio Romano o para designar la parte de la vía que no es acera.",
+      "letra": "C"
+    },
+    {
+      "id": "camino",
+      "termino": "Camino",
+      "definicion": "Tierra hollada por donde se transita habitualmente. Terreno compactado o preparado para transitar.",
+      "letra": "C"
+    },
+    {
+      "id": "camino-asendereado",
+      "termino": "Camino asendereado",
+      "definicion": "El común y frecuentado.",
+      "letra": "C"
+    },
+    {
+      "id": "camino-carros",
+      "termino": "Camino carros, carretero, carretil o de ruedas",
+      "definicion": "El destinado al tránsito de carruajes.",
+      "letra": "C"
+    },
+    {
+      "id": "camino-cabras",
+      "termino": "Camino de cabras",
+      "definicion": "Camino de montaña estrecho y muy accidentado.",
+      "letra": "C"
+    },
+    {
+      "id": "camino-herradura",
+      "termino": "Camino de herradura o de caballos",
+      "definicion": "Camino por el que sólo pueden transitar caballerías.",
+      "letra": "C"
+    },
+    {
+      "id": "camino-sirga",
+      "termino": "Camino de sirga",
+      "definicion": "El que a orillas de ríos y canales sirve para llevar las embarcaciones tirando de ellas desde tierra.",
+      "letra": "C"
+    },
+    {
+      "id": "campo",
+      "termino": "Campo",
+      "definicion": "Terreno extenso fuera de poblado. Tierra cultivada.",
+      "letra": "C"
+    },
+    {
+      "id": "campillo",
+      "termino": "Campillo",
+      "definicion": "Ejido = Campo común de un pueblo, lindante con él, que no se labra, y donde suelen reunirse los ganados o establecerse las eras.",
+      "letra": "C"
+    },
+    {
+      "id": "campina",
+      "termino": "Campiña",
+      "definicion": "Espacio grande de tierra llana destinado al cultivo.",
+      "letra": "C"
+    },
+    {
+      "id": "canal",
+      "termino": "Canal",
+      "definicion": "Llanura larga y estrecha entre dos montañas.",
+      "letra": "C"
+    },
+    {
+      "id": "canchal",
+      "termino": "Canchal",
+      "definicion": "Peñascal o sitio de grandes peñas se forma por acumulación de bloques de roca angulosos que descansa al pie de una pared rocosa y tapiza una ladera. En el argot montañero se suelen denominar \"pedreras\". El más famoso es el Canchal del Turmal en Gredos.",
+      "letra": "C"
+    },
+    {
+      "id": "cancho",
+      "termino": "Cancho",
+      "definicion": "Peñasco más o menos abrupto de grandes dimensiones.",
+      "letra": "C"
+    },
+    {
+      "id": "candalo",
+      "termino": "Cándalo",
+      "definicion": "Rama seca. Tronco seco, especialmente de pino.",
+      "letra": "C"
+    },
+    {
+      "id": "cantil",
+      "termino": "Cantil",
+      "definicion": "Borde de un despeñadero.",
+      "letra": "C"
+    },
+    {
+      "id": "canto-rodado",
+      "termino": "Canto (rodado)",
+      "definicion": "Fragmento de roa pulido y suelto.",
+      "letra": "C"
+    },
+    {
+      "id": "canada",
+      "termino": "Cañada",
+      "definicion": "Vía cuya anchura es mayor a 90 varas (aproximadamente 75 m).",
+      "letra": "C"
+    },
+    {
+      "id": "canon",
+      "termino": "Cañón",
+      "definicion": "Valle de origen fluvial con paredes verticales o próximas a la vertical, cuya profundidad es mayor que su anchura.",
+      "letra": "C"
+    },
+    {
+      "id": "carcava",
+      "termino": "Cárcava",
+      "definicion": "Hoya o zanja grande que suelen hacer las avenidas de agua.",
+      "letra": "C"
+    },
+    {
+      "id": "carrera",
+      "termino": "Carrera",
+      "definicion": "Camino real o carretero. Calle que fue antes camino.",
+      "letra": "C"
+    },
+    {
+      "id": "carretera",
+      "termino": "Carretera",
+      "definicion": "Camino público, ancho y espacioso, pavimentado y dispuesto para el tránsito de vehículos.",
+      "letra": "C"
+    },
+    {
+      "id": "carril",
+      "termino": "Carril",
+      "definicion": "Un camino, especial, donde solo puede pasar un carro.",
+      "letra": "C"
+    },
+    {
+      "id": "cascada",
+      "termino": "Cascada",
+      "definicion": "Caída desde cierta altura del agua de un río u otra corriente por brusco desnivel del cauce.",
+      "letra": "C"
+    },
+    {
+      "id": "cascajal",
+      "termino": "Cascajal",
+      "definicion": "Terreno cubierto de cascajo, piedra menuda y suelta.",
+      "letra": "C"
+    },
+    {
+      "id": "castrejon",
+      "termino": "Castrejón",
+      "definicion": "Literalmente puede interpretarse como \"castro grande\" o \"lugar fortificado destacado\".",
+      "letra": "C"
+    },
+    {
+      "id": "cava",
+      "termino": "Cava",
+      "definicion": "Foso. Cueva y hoyo.",
+      "letra": "C"
+    },
+    {
+      "id": "caz",
+      "termino": "Caz",
+      "definicion": "Canal para tomar el agua y conducirla a donde es aprovechada.",
+      "letra": "C"
+    },
+    {
+      "id": "ceja",
+      "termino": "Ceja",
+      "definicion": "Parte superior o cumbre del monte o sierra.",
+      "letra": "C"
+    },
+    {
+      "id": "cerro",
+      "termino": "Cerro",
+      "definicion": "Elevación de tierra aislada y de menor altura que el monte o la montaña.",
+      "letra": "C"
+    },
+    {
+      "id": "chimenea",
+      "termino": "Chimenea",
+      "definicion": "Grieta larga y estrecha entre las rocas de un risco.",
+      "letra": "C"
+    },
+    {
+      "id": "chorrera",
+      "termino": "Chorrera",
+      "definicion": "Trecho corto de río en que el agua, por causa de un gran declive, corre con mucha velocidad.",
+      "letra": "C"
+    },
+    {
+      "id": "cienaga",
+      "termino": "Ciénaga",
+      "definicion": "Lugar o paraje lleno de cieno o pantanoso.",
+      "letra": "C"
+    },
+    {
+      "id": "cima",
+      "termino": "Cima",
+      "definicion": "Punto más alto de los montes, cerros y collados.",
+      "letra": "C"
+    },
+    {
+      "id": "cingla",
+      "termino": "Cingla",
+      "definicion": "Elevación escalonada del terreno cortada bruscamente por alguno de sus lados.",
+      "letra": "C"
+    },
+    {
+      "id": "cobertizo",
+      "termino": "Cobertizo",
+      "definicion": "Sitio cubierto ligera o rústicamente para resguardar de la intemperie personas, animales o efectos.",
+      "letra": "C"
+    },
+    {
+      "id": "colada",
+      "termino": "Colada",
+      "definicion": "Faja de terreno por donde pueden transitar los ganados para ir de unos a otros pastos. Paso o garganta entre montañas difícil de cruzar por su angostura y mal suelo. Anchura con menos de 25 varas (aproximadamente 21 m).",
+      "letra": "C"
+    },
+    {
+      "id": "colina",
+      "termino": "Colina",
+      "definicion": "Elevación natural de terreno, menor que una montaña.",
+      "letra": "C"
+    },
+    {
+      "id": "collado",
+      "termino": "Collado",
+      "definicion": "Depresión suave por donde se puede pasar fácilmente de un lado a otro de una sierra.",
+      "letra": "C"
+    },
+    {
+      "id": "conatillo",
+      "termino": "Conatillo",
+      "definicion": "Terreno bajo, hondonada o pequeña depresión, a menudo cerrada o mal drenada, donde se acumula el agua o la humedad.",
+      "letra": "C"
+    },
+    {
+      "id": "congosto",
+      "termino": "Congosto",
+      "definicion": "Desfiladero entre montañas.",
+      "letra": "C"
+    },
+    {
+      "id": "cordal",
+      "termino": "Cordal",
+      "definicion": "Línea superior de una sucesión de montañas.",
+      "letra": "C"
+    },
+    {
+      "id": "cordel",
+      "termino": "Cordel",
+      "definicion": "Según la legislación de la Mesta, vía pastoril para los ganados trashumantes de 45 varas (aproximadamente 37,5 m).",
+      "letra": "C"
+    },
+    {
+      "id": "cordillera",
+      "termino": "Cordillera",
+      "definicion": "Serie de montañas enlazadas entre sí.",
+      "letra": "C"
+    },
+    {
+      "id": "corredera",
+      "termino": "Corredera",
+      "definicion": "Paraje apropiado para el acoso y derribo de las reses vacunas. Sitio o lugar destinado para correr caballos.",
+      "letra": "C"
+    },
+    {
+      "id": "cosio",
+      "termino": "Cosío",
+      "definicion": "Corral, cercado o callejón cerrado.",
+      "letra": "C"
+    },
+    {
+      "id": "cresta",
+      "termino": "Cresta",
+      "definicion": "Cumbre de agudos peñascos de una montaña.",
+      "letra": "C"
+    },
+    {
+      "id": "cubil",
+      "termino": "Cubil",
+      "definicion": "Sitio donde los animales, principalmente las fieras, se recogen para dormir. Cauce de las aguas corrientes.",
+      "letra": "C"
+    },
+    {
+      "id": "cuerda",
+      "termino": "Cuerda",
+      "definicion": "Línea superior de una sucesión de montañas.",
+      "letra": "C"
+    },
+    {
+      "id": "cuesta",
+      "termino": "Cuesta",
+      "definicion": "Terreno en pendiente.",
+      "letra": "C"
+    },
+    {
+      "id": "cueto",
+      "termino": "Cueto",
+      "definicion": "Colina de forma cónica, aislada, y por lo común peñascosa.",
+      "letra": "C"
+    },
+    {
+      "id": "cuchillar",
+      "termino": "Cuchillar",
+      "definicion": "Montaña con varias elevaciones escarpadas.",
+      "letra": "C"
+    },
+    {
+      "id": "cuicuy",
+      "termino": "Cuicuy",
+      "definicion": "Árbol derivado que sirve de puente.",
+      "letra": "C"
+    },
+    {
+      "id": "cumbre",
+      "termino": "Cumbre",
+      "definicion": "Cima o parte superior de un monte.",
+      "letra": "C"
+    },
+    {
+      "id": "cuspide",
+      "termino": "Cúspide",
+      "definicion": "Cumbre puntiaguda de los montes.",
+      "letra": "C"
+    },
+    {
+      "id": "declive",
+      "termino": "Declive",
+      "definicion": "Pendiente, cuesta o inclinación del terreno o de la superficie de otra cosa.",
+      "letra": "D"
+    },
+    {
+      "id": "degollada",
+      "termino": "Degollada",
+      "definicion": "En Canarias es un collado o paso elevado entre montañas o riscos.",
+      "letra": "D"
+    },
+    {
+      "id": "dehesa",
+      "termino": "Dehesa",
+      "definicion": "Tierra generalmente acotada y arbolada, por lo común destinada a pastos.",
+      "letra": "D"
+    },
+    {
+      "id": "dehesa-boyal",
+      "termino": "Dehesa boyal",
+      "definicion": "Dehesas o prados comunales donde el vecindario de un pueblo suelta o apacienta sus ganados, aunque estos no sean vacunos.",
+      "letra": "D"
+    },
+    {
+      "id": "derrocadero",
+      "termino": "Derrocadero",
+      "definicion": "Sitio peñascoso y de muchas rocas, de donde hay peligro de caer y precipitarse.",
+      "letra": "D"
+    },
+    {
+      "id": "derrota",
+      "termino": "Derrota",
+      "definicion": "Camino, vereda o senda de tierra.",
+      "letra": "D"
+    },
+    {
+      "id": "derrotero",
+      "termino": "Derrotero",
+      "definicion": "Camino, rumbo.",
+      "letra": "D"
+    },
+    {
+      "id": "descaminar",
+      "termino": "Descaminar",
+      "definicion": "Sacar o apartar a alguien del camino que debe seguir, de modo que lo yerre.",
+      "letra": "D"
+    },
+    {
+      "id": "descansadero",
+      "termino": "Descansadero",
+      "definicion": "Parte de la vía pecuaria que se ensancha y permite a los amplios grupos de ganado descansar en su recorrido en busca de los pastos más frescos.",
+      "letra": "D"
+    },
+    {
+      "id": "desfiladero",
+      "termino": "Desfiladero",
+      "definicion": "Paso estrecho entre montañas; por donde la gente en guerra no puede ir formada sino disminuyendo el frente de las filas.",
+      "letra": "D"
+    },
+    {
+      "id": "despenadero",
+      "termino": "Despeñadero",
+      "definicion": "Sitio elevado y peñascoso en que por su demasiada pendiente no se halla senda donde fijar el pie sin peligro de precipitarse.",
+      "letra": "D"
+    },
+    {
+      "id": "dolina",
+      "termino": "Dolina",
+      "definicion": "Depresión más o menos profunda y de paredes muy inclinadas, típica de los terrenos calizos.",
+      "letra": "D"
+    },
+    {
+      "id": "ejido",
+      "termino": "Ejido",
+      "definicion": "Campo común de un pueblo, lindante con él, que no se labra, y donde suelen reunirse los ganados o establecerse las eras.",
+      "letra": "E"
+    },
+    {
+      "id": "embalse",
+      "termino": "Embalse",
+      "definicion": "Gran depósito que se forma artificialmente, por lo común cerrando la boca de un valle mediante un dique o presa, y en el que se almacenan las aguas de un río o arroyo, a fin de utilizarlas en el riego de terrenos, en el abastecimiento de poblaciones, en la producción de energía eléctrica, etc.",
+      "letra": "E"
+    },
+    {
+      "id": "encinar",
+      "termino": "Encinar",
+      "definicion": "Sitio poblado de encinas.",
+      "letra": "E"
+    },
+    {
+      "id": "encrucijada",
+      "termino": "Encrucijada",
+      "definicion": "Lugar en donde se cruzan dos o más calles o caminos.",
+      "letra": "E"
+    },
+    {
+      "id": "enriscar",
+      "termino": "Enriscar",
+      "definicion": "Guarecerse, meterse entre riscos y peñascos.",
+      "letra": "E"
+    },
+    {
+      "id": "ensenada",
+      "termino": "Ensenada",
+      "definicion": "Parte de mar que entra en la tierra.",
+      "letra": "E"
+    },
+    {
+      "id": "era",
+      "termino": "Era",
+      "definicion": "Espacio de tierra limpia y firme, algunas veces empedrado, donde se trillan las mieses.",
+      "letra": "E"
+    },
+    {
+      "id": "escarpe",
+      "termino": "Escarpe",
+      "definicion": "Declive áspero del terreno.",
+      "letra": "E"
+    },
+    {
+      "id": "escollo",
+      "termino": "Escollo",
+      "definicion": "Peñasco que está a flor de agua o que no se descubre bien.",
+      "letra": "E"
+    },
+    {
+      "id": "escupidera",
+      "termino": "Escupidera",
+      "definicion": "La Escupidera es un paso estrecho y muy inclinado cerca de la cima del Monte Perdido o del Moncayo, especialmente peligroso con nieve o hielo.",
+      "letra": "E"
+    },
+    {
+      "id": "estero",
+      "termino": "Estero",
+      "definicion": "Estrecha faja de tierra a la orilla del mar por la que se extiende las aguas de las mareas.",
+      "letra": "E"
+    },
+    {
+      "id": "estuario",
+      "termino": "Estuario",
+      "definicion": "Desembocadura de un río caudaloso en el mar, caracterizada por tener una forma semejante al corte longitudinal de un embudo, cuyos lados van apartándose en el sentido de la corriente, y por la influencia de las mareas en la unión de las aguas fluviales con las marítimas.",
+      "letra": "E"
+    },
+    {
+      "id": "faja",
+      "termino": "Faja",
+      "definicion": "Franja mucho más larga que ancha.",
+      "letra": "F"
+    },
+    {
+      "id": "fajana",
+      "termino": "Fajana",
+      "definicion": "Terreno llano al pie de laderas o escarpes, formado comúnmente por materiales desprendidos de las alturas que lo dominan.",
+      "letra": "F"
+    },
+    {
+      "id": "farallon",
+      "termino": "Farallón",
+      "definicion": "Roca alta y tajada que sobresale en el mar y alguna vez en tierra firme.",
+      "letra": "F"
+    },
+    {
+      "id": "flecha",
+      "termino": "Flecha",
+      "definicion": "Indicador de dirección en forma de flecha. Distancia máxima de los puntos de una curva a la recta que une sus extremos. En el arco de un puente se describe con flecha y luz.",
+      "letra": "F"
+    },
+    {
+      "id": "flecha-litoral",
+      "termino": "Flecha litoral",
+      "definicion": "Es una lengua alargada de arena o sedimentos que se forma a lo largo de la costa, unida a tierra por un extremo y que se proyecta hacia el mar.",
+      "letra": "F"
+    },
+    {
+      "id": "fragosidad",
+      "termino": "Fragosidad",
+      "definicion": "Camino o terreno lleno de asperezas y breñas.",
+      "letra": "F"
+    },
+    {
+      "id": "freo",
+      "termino": "Freo",
+      "definicion": "Canal estrecho entre dos islas o entre una isla y tierra firme.",
+      "letra": "F"
+    },
+    {
+      "id": "fresneda",
+      "termino": "Fresneda",
+      "definicion": "Paraje cubierto de fresnos.",
+      "letra": "F"
+    },
+    {
+      "id": "furna",
+      "termino": "Furna",
+      "definicion": "En geología, una furna es una cavidad o grieta natural que se forma en terrenos volcánicos o costeros, comúnmente asociada a la actividad volcánica o a la erosión del mar sobre materiales rocosos. Se utiliza en Galicia.",
+      "letra": "F"
+    },
+    {
+      "id": "galayo",
+      "termino": "Galayo",
+      "definicion": "Prominencia aguda de roca pelada que se eleva en un monte.",
+      "letra": "G"
+    },
+    {
+      "id": "galiana",
+      "termino": "Galiana",
+      "definicion": "Cañada",
+      "letra": "G"
+    },
+    {
+      "id": "gandara",
+      "termino": "Gándara",
+      "definicion": "Tierra baja, inculta y llena de maleza.",
+      "letra": "G"
+    },
+    {
+      "id": "geoda",
+      "termino": "Geoda",
+      "definicion": "Hueco de una roca, tapizado de una sustancia generalmente cristalizada.",
+      "letra": "G"
+    },
+    {
+      "id": "garganta",
+      "termino": "Garganta",
+      "definicion": "Estrechura de montes, ríos u otros parajes.",
+      "letra": "G"
+    },
+    {
+      "id": "garma",
+      "termino": "Garma",
+      "definicion": "Maleza = Espesura que forma la multitud de arbustos, como zarzales, jarales, etc.",
+      "letra": "G"
+    },
+    {
+      "id": "glaciar",
+      "termino": "Glaciar",
+      "definicion": "Masa de hielo acumulada en las zonas de las cordilleras por encima del límite de las nieves perpetuas y cuya parte inferior se desliza muy lentamente, como si fuese un río de hielo.",
+      "letra": "G"
+    },
+    {
+      "id": "glera",
+      "termino": "Glera",
+      "definicion": "Arenal, cascajar (Aragón). Pedregal.",
+      "letra": "G"
+    },
+    {
+      "id": "golfo",
+      "termino": "Golfo",
+      "definicion": "Gran porción de mar que se interna en la tierra entre dos cabos.",
+      "letra": "G"
+    },
+    {
+      "id": "gr",
+      "termino": "GR",
+      "definicion": "Senderos de gran recorrido (GR), Blanco y rojo",
+      "letra": "G"
+    },
+    {
+      "id": "guija",
+      "termino": "Guija",
+      "definicion": "Piedra lisa y pequeña que se encuentra en las orillas y cauces de los ríos y arroyos.",
+      "letra": "G"
+    },
+    {
+      "id": "guijarro",
+      "termino": "Guijarro",
+      "definicion": "Pequeño canto rodado.",
+      "letra": "G"
+    },
+    {
+      "id": "hacho",
+      "termino": "Hacho",
+      "definicion": "Lugar elevado de la costa donde se encendían hacheros (antorchas) para señalar su presencia a los navegantes.",
+      "letra": "H"
+    },
+    {
+      "id": "haza",
+      "termino": "Haza",
+      "definicion": "Montón o rimero. Porción de tierra labrantía o de sembradura.",
+      "letra": "H"
+    },
+    {
+      "id": "hayedo",
+      "termino": "Hayedo",
+      "definicion": "Sitio poblado de hayas.",
+      "letra": "H"
+    },
+    {
+      "id": "helero",
+      "termino": "Helero",
+      "definicion": "Masa de hielo acumulada en las zonas altas de las cordilleras por debajo del límite de las nieves perpetuas, que se derrite en veranos muy calurosos.",
+      "letra": "H"
+    },
+    {
+      "id": "herradura",
+      "termino": "Herradura",
+      "definicion": "Meandro muy cerrado.",
+      "letra": "H"
+    },
+    {
+      "id": "herren",
+      "termino": "Herrén",
+      "definicion": "Forraje de avena, cebada, trigo, centeno y otras plantas que se da al ganado. Terreno donde se cultivaba el forraje (herrenal).",
+      "letra": "H"
+    },
+    {
+      "id": "hito",
+      "termino": "Hito",
+      "definicion": "Mojón (muga) o poste de piedra, por lo común labrada o creada a base de una acumulación de piedras de tamaño medio que sirve para indicar la dirección o la distancia en los caminos o para delimitar terrenos.",
+      "letra": "H"
+    },
+    {
+      "id": "hollar",
+      "termino": "Hollar",
+      "definicion": "Pisar dejando señal de la pisada.",
+      "letra": "H"
+    },
+    {
+      "id": "hondonada",
+      "termino": "Hondonada",
+      "definicion": "Terreno bajo y ancho al que se desciende en declive.",
+      "letra": "H"
+    },
+    {
+      "id": "hontanar",
+      "termino": "Hontanar",
+      "definicion": "Sitio en que nacen fuentes o manantiales.",
+      "letra": "H"
+    },
+    {
+      "id": "horcajo",
+      "termino": "Horcajo",
+      "definicion": "Confluencia de dos ríos o arroyos.",
+      "letra": "H"
+    },
+    {
+      "id": "hoya",
+      "termino": "Hoya",
+      "definicion": "Depresión amplia y más o menos cerrada, como una especie de \"cuenco\" natural en medio de montañas.",
+      "letra": "H"
+    },
+    {
+      "id": "hoyo",
+      "termino": "Hoyo",
+      "definicion": "Es la concavidad que natural o artificialmente se forma en el campo.",
+      "letra": "H"
+    },
+    {
+      "id": "hoz",
+      "termino": "Hoz",
+      "definicion": "Angostura de un valle profundo.",
+      "letra": "H"
+    },
+    {
+      "id": "hozadura",
+      "termino": "Hozadura",
+      "definicion": "Hoyo o señal que deja un animal por haber hozado (escarbado).",
+      "letra": "H"
+    },
+    {
+      "id": "hueco",
+      "termino": "Hueco",
+      "definicion": "Cualquier hundimiento, cavidad o depresión, grande o pequeña.",
+      "letra": "H"
+    },
+    {
+      "id": "humilladero",
+      "termino": "Humilladero",
+      "definicion": "Lugar devoto que suele haber a las entradas o salidas de los pueblos y junto a los caminos, con una cruz o imagen.",
+      "letra": "H"
+    },
+    {
+      "id": "ibon",
+      "termino": "Ibón",
+      "definicion": "En Pirineos, laguna situada a gran altura y alimentada por la fusión de las nieves.",
+      "letra": "I"
+    },
+    {
+      "id": "integral",
+      "termino": "Integral",
+      "definicion": "Que comprende todos los elementos o aspectos de algo. Una integral es la travesía completa de toda una cuerda, macizo o cordillera, sin dejarse las cimas principales.",
+      "letra": "I"
+    },
+    {
+      "id": "karst",
+      "termino": "Karst",
+      "definicion": "Paisaje de relieve accidentado, con grietas y crestas agudas, originado por la erosión química en terrenos calcáreos.",
+      "letra": "K"
+    },
+    {
+      "id": "jacilla",
+      "termino": "Jacilla",
+      "definicion": "Señal o huella que deja algo en la tierra sobre la que ha estado por algún tiempo.",
+      "letra": "J"
+    },
+    {
+      "id": "jaral",
+      "termino": "Jaral",
+      "definicion": "Sitio poblado de jaras.",
+      "letra": "J"
+    },
+    {
+      "id": "ladera",
+      "termino": "Ladera",
+      "definicion": "El declive que hace un monte o altura por alguno de sus costados.",
+      "letra": "L"
+    },
+    {
+      "id": "laja",
+      "termino": "Laja",
+      "definicion": "Un tipo de roca sedimentaria, generalmente plana y con bordes irregulares, que se caracteriza por su facilidad para partirse en láminas o losas delgadas. Este material es utilizado comúnmente en la construcción y el paisajismo, especialmente para pavimentar caminos, crear muros o revestimientos, y como elementos decorativos.",
+      "letra": "L"
+    },
+    {
+      "id": "lancha",
+      "termino": "Lancha",
+      "definicion": "Piedra más bien grande, naturalmente lisa, plana y de poco grueso.",
+      "letra": "L"
+    },
+    {
+      "id": "lavajo",
+      "termino": "Lavajo",
+      "definicion": "Charca de agua llovediza que rara vez se seca.",
+      "letra": "L"
+    },
+    {
+      "id": "legua",
+      "termino": "Legua",
+      "definicion": "Medida itineraria, variable según los países o regiones, definida por el camino que regularmente se anda en una hora, y que en el antiguo sistema español equivale a 5572,7 m.",
+      "letra": "L"
+    },
+    {
+      "id": "liego",
+      "termino": "Liego",
+      "definicion": "Dicho de un terreno: que no sirve para sembrar.",
+      "letra": "L"
+    },
+    {
+      "id": "llambria",
+      "termino": "Llambria",
+      "definicion": "Parte de una peña que forma un plano muy inclinado y difícil de pasar.",
+      "letra": "L"
+    },
+    {
+      "id": "loma",
+      "termino": "Loma",
+      "definicion": "Altura pequeña y prolongada.",
+      "letra": "L"
+    },
+    {
+      "id": "lomba",
+      "termino": "Lomba",
+      "definicion": "Loma o colina = Parte de una ladera limitada por dos barrancos paralelos.",
+      "letra": "L"
+    },
+    {
+      "id": "longuera",
+      "termino": "Longuera",
+      "definicion": "Porción de tierra larga y estrecha.",
+      "letra": "L"
+    },
+    {
+      "id": "luco",
+      "termino": "Luco",
+      "definicion": "Bosque o selva de árboles cerrados y espesos.",
+      "letra": "L"
+    },
+    {
+      "id": "macadan",
+      "termino": "Macadán",
+      "definicion": "Pavimento de piedra machacada que una vez tendida se comprime con el rodillo.",
+      "letra": "M"
+    },
+    {
+      "id": "madrevieja",
+      "termino": "Madrevieja",
+      "definicion": "Cauce de río o arroyo seco.",
+      "letra": "M"
+    },
+    {
+      "id": "majada",
+      "termino": "Majada",
+      "definicion": "Lugar donde se recoge de noche el ganado y se albergan los pastores.",
+      "letra": "M"
+    },
+    {
+      "id": "majano",
+      "termino": "Majano",
+      "definicion": "Montón de cantos sueltos que se forma en las tierras de labor o en las encrucijadas y división de términos.",
+      "letra": "M"
+    },
+    {
+      "id": "malpais",
+      "termino": "Malpaís",
+      "definicion": "Campo de lava reciente, con una superficie tortuosa, estéril y árida.",
+      "letra": "M"
+    },
+    {
+      "id": "marcha",
+      "termino": "Marcha",
+      "definicion": "Modo de caminar de las personas y de algunos animales. Desplazamiento de personas para un fin determinado.",
+      "letra": "M"
+    },
+    {
+      "id": "marga",
+      "termino": "Marga",
+      "definicion": "Roca más o menos dura, de color gris, compuesta principalmente de carbonato de calcio y arcilla en proporciones casi iguales, y que se emplea como abono de los terrenos en que escasea la cal o la arcilla.",
+      "letra": "M"
+    },
+    {
+      "id": "marjal",
+      "termino": "Marjal",
+      "definicion": "Terreno bajo y pantanoso.",
+      "letra": "M"
+    },
+    {
+      "id": "macizo",
+      "termino": "Macizo",
+      "definicion": "Prominencia del terreno, por lo común rocosa. Grupo de alturas o montañas.",
+      "letra": "M"
+    },
+    {
+      "id": "milla",
+      "termino": "Milla",
+      "definicion": "Medida itineraria de los romanos, que equivalía a 1478,5 m corresponde a mil pasos.",
+      "letra": "M"
+    },
+    {
+      "id": "moheda",
+      "termino": "Moheda",
+      "definicion": "Monte alto con jarales y maleza.",
+      "letra": "M"
+    },
+    {
+      "id": "mojon",
+      "termino": "Mojón",
+      "definicion": "Señal permanente que se pone para fijar los linderos de heredades, términos y fronteras.",
+      "letra": "M"
+    },
+    {
+      "id": "mogote",
+      "termino": "Mogote",
+      "definicion": "Cualquier elevación del terreno que recuerde la forma de un monte. Montón de piedras. Montículo aislado, de forma cónica y rematado en punta roma.",
+      "letra": "M"
+    },
+    {
+      "id": "montana",
+      "termino": "Montaña",
+      "definicion": "Gran elevación natural del terreno.",
+      "letra": "M"
+    },
+    {
+      "id": "monte",
+      "termino": "Monte",
+      "definicion": "Tierra inculta cubierta de árboles, arbustos, matas o hierba.",
+      "letra": "M"
+    },
+    {
+      "id": "moral",
+      "termino": "Moral",
+      "definicion": "Árbol ecuatoriano tropical, de la familia de las moráceas, de madera incorruptible, muy empleada en la construcción de casas.",
+      "letra": "M"
+    },
+    {
+      "id": "morrena",
+      "termino": "Morrena",
+      "definicion": "Montón de piedras y barro acumuladas por un glaciar. Pella de tierra con que se cierra o ataja el paso del agua en una acequia.",
+      "letra": "M"
+    },
+    {
+      "id": "mota",
+      "termino": "Mota",
+      "definicion": "Elevación del terreno de poca altura, natural o artificial, que se levanta sola en un llano.",
+      "letra": "M"
+    },
+    {
+      "id": "muga",
+      "termino": "Muga",
+      "definicion": "Mojón, término o límite.",
+      "letra": "M"
+    },
+    {
+      "id": "nava",
+      "termino": "Nava",
+      "definicion": "Tierra sin árboles y llana, a veces pantanosa, situada generalmente entre montañas.",
+      "letra": "N"
+    },
+    {
+      "id": "ojo-agua",
+      "termino": "Ojo de agua",
+      "definicion": "Manantial que surge en un llano.",
+      "letra": "O"
+    },
+    {
+      "id": "otero",
+      "termino": "Otero",
+      "definicion": "Cerro aislado que domina un llano.",
+      "letra": "O"
+    },
+    {
+      "id": "pampa",
+      "termino": "Pampa",
+      "definicion": "Cada una de las llanuras extensas de América del Sur que no tienen vegetación arbórea.",
+      "letra": "P"
+    },
+    {
+      "id": "pantano",
+      "termino": "Pantano",
+      "definicion": "Terreno hundido de fondo más o menos cenagoso y abundante vegetación, donde las aguas se estancan de forma natural.",
+      "letra": "P"
+    },
+    {
+      "id": "paradina",
+      "termino": "Paradina",
+      "definicion": "Monte bajo de pasto, donde suele haber corrales para el ganado lanar.",
+      "letra": "P"
+    },
+    {
+      "id": "paraje",
+      "termino": "Paraje",
+      "definicion": "Lugar en el campo aislado y singular.",
+      "letra": "P"
+    },
+    {
+      "id": "paramo",
+      "termino": "Páramo",
+      "definicion": "Terreno yermo, raso y desabrigado.",
+      "letra": "P"
+    },
+    {
+      "id": "pasadera",
+      "termino": "Pasadera",
+      "definicion": "Senda de difícil tránsito a través de un terreno encharcado. Cada una de las piedras que sirven para atravesar, a pie enjuto, un río, charco, arroyo, etc.",
+      "letra": "P"
+    },
+    {
+      "id": "pasarela",
+      "termino": "Pasarela",
+      "definicion": "Paso o puente pequeño.",
+      "letra": "P"
+    },
+    {
+      "id": "paso-canadiense",
+      "termino": "Paso Canadiense",
+      "definicion": "Hueco en el suelo cubierto por barras paralelas que obstaculiza el tránsito del ganado de pezuña.",
+      "letra": "P"
+    },
+    {
+      "id": "paul",
+      "termino": "Paúl",
+      "definicion": "Sitio pantanoso cubierto de hierbas.",
+      "letra": "P"
+    },
+    {
+      "id": "pedregal",
+      "termino": "Pedregal",
+      "definicion": "Sitio o terreno cubierto casi todo él de piedras sueltas.",
+      "letra": "P"
+    },
+    {
+      "id": "pena",
+      "termino": "Peña",
+      "definicion": "Piedra grande sin labrar, según la produce la naturaleza o una montaña abrupta y escarpada.",
+      "letra": "P"
+    },
+    {
+      "id": "penascal",
+      "termino": "Peñascal",
+      "definicion": "Sitio cubierto de peñascos.",
+      "letra": "P"
+    },
+    {
+      "id": "pertiga",
+      "termino": "Pértiga",
+      "definicion": "Hito de señalización ganadera, normalmente de madera o piedra, que marca: Cruces, límites de términos y lugares de referencia para pastores. Funciona como un \"poste direccional\" medieval.",
+      "letra": "P"
+    },
+    {
+      "id": "piedemonte",
+      "termino": "Piedemonte",
+      "definicion": "Parte baja de un monte.",
+      "letra": "P"
+    },
+    {
+      "id": "pinar",
+      "termino": "Pinar",
+      "definicion": "Sitio o lugar poblado de pinos.",
+      "letra": "P"
+    },
+    {
+      "id": "pico",
+      "termino": "Pico",
+      "definicion": "El remate o cúspide de las montañas elevadas que termina en punta.",
+      "letra": "P"
+    },
+    {
+      "id": "piornal",
+      "termino": "Piornal",
+      "definicion": "Sitio poblado de piornos.",
+      "letra": "P"
+    },
+    {
+      "id": "pista",
+      "termino": "Pista",
+      "definicion": "Camino por el que se puede circular fuera del ámbito de la red de carreteras. Pública o privada, con firme o no, que discurre por el monte para el acceso al mismo y la ejecución de trabajos o servicios agroforestales. En las estaciones de esquí la dificultad se clasifica por colores: verde (muy fácil); azul (fácil); roja (difícil); y negra (muy difícil).",
+      "letra": "P"
+    },
+    {
+      "id": "poris",
+      "termino": "Porís",
+      "definicion": "Cueva marina natural en la costa.",
+      "letra": "P"
+    },
+    {
+      "id": "portachuelo",
+      "termino": "Portachuelo",
+      "definicion": "Boquete abierto en la convergencia de dos montes.",
+      "letra": "P"
+    },
+    {
+      "id": "portilla",
+      "termino": "Portilla",
+      "definicion": "Cada una de las aberturas pequeñas y de forma varia que se hacen en los costados de los buques, las cuales, cerradas con un cristal grueso, sirven para dar claridad y ventilación a pañoles, alojamientos, etc.",
+      "letra": "P"
+    },
+    {
+      "id": "portillo",
+      "termino": "Portillo",
+      "definicion": "Camino angosto entre dos alturas. Paso o entrada que se abre en un muro, vallado, etc.",
+      "letra": "P"
+    },
+    {
+      "id": "posta",
+      "termino": "Posta",
+      "definicion": "Conjunto de caballerías que se apostaban en los caminos cada dos o tres leguas, para que los tiros, los correos, etc., pudiesen ser relevados.",
+      "letra": "P"
+    },
+    {
+      "id": "pr",
+      "termino": "PR",
+      "definicion": "Senderos de pequeño recorrido (PR) Blanco y amarillo",
+      "letra": "P"
+    },
+    {
+      "id": "presa",
+      "termino": "Presa",
+      "definicion": "Muro grueso de piedra u otro material que se construye a través de un río, arroyo o canal, para almacenar el agua a fin de derivarla o regular su curso fuera del cauce.",
+      "letra": "P"
+    },
+    {
+      "id": "puerto",
+      "termino": "Puerto",
+      "definicion": "El paso o camino por donde se atraviesan las cumbres de las sierra y montañas. El punto de mayor altitud en el camino y a su vez el punto más bajo del sistema montañoso. Equivale a collado.",
+      "letra": "P"
+    },
+    {
+      "id": "punta",
+      "termino": "Punta",
+      "definicion": "Lengua de tierra, generalmente baja y de poca extensión, que penetra en el mar.",
+      "letra": "P"
+    },
+    {
+      "id": "quebrada",
+      "termino": "Quebrada",
+      "definicion": "Paso estrecho entre montañas.",
+      "letra": "Q"
+    },
+    {
+      "id": "rambla",
+      "termino": "Rambla",
+      "definicion": "Lecho natural de las aguas pluviales cuando caen copiosamente. En Cataluña y otras zonas de Levante, calle ancha y con árboles, generalmente con andén central.",
+      "letra": "R"
+    },
+    {
+      "id": "rana",
+      "termino": "Raña",
+      "definicion": "Acumulación aluvial depositada sobre llanura o ladera de poca pendiente o llanuras en las que aparecen grandes bloques rocosos. Terreno de monte bajo.",
+      "letra": "R"
+    },
+    {
+      "id": "rastrojo",
+      "termino": "Rastrojo",
+      "definicion": "Terreno de labor que se deja sin labrar.",
+      "letra": "R"
+    },
+    {
+      "id": "raya",
+      "termino": "Raya",
+      "definicion": "Lindero de un predio (tierra) de mucha extensión.",
+      "letra": "R"
+    },
+    {
+      "id": "regajo",
+      "termino": "Regajo",
+      "definicion": "Charco que se forma de un arroyuelo o Arroyo pequeño.",
+      "letra": "R"
+    },
+    {
+      "id": "regato",
+      "termino": "Regato",
+      "definicion": "Arroyo pequeño. Remanso poco profundo.",
+      "letra": "R"
+    },
+    {
+      "id": "retamar",
+      "termino": "Retamar",
+      "definicion": "Sitio poblado de retamas.",
+      "letra": "R"
+    },
+    {
+      "id": "ribazo",
+      "termino": "Ribazo",
+      "definicion": "Porción de tierra con elevación y declive. Margen elevado entre parcelas o entre caminos.",
+      "letra": "R"
+    },
+    {
+      "id": "risco",
+      "termino": "Risco",
+      "definicion": "Peñasco alto y escarpado, difícil y peligroso para andar por él.",
+      "letra": "R"
+    },
+    {
+      "id": "robledal",
+      "termino": "Robledal",
+      "definicion": "Robledo de gran extensión.",
+      "letra": "R"
+    },
+    {
+      "id": "robledo",
+      "termino": "Robledo",
+      "definicion": "Sitio poblado de robles.",
+      "letra": "R"
+    },
+    {
+      "id": "roca",
+      "termino": "Roca",
+      "definicion": "Peñasco que se levanta en la tierra o en el mar.",
+      "letra": "R"
+    },
+    {
+      "id": "rodera",
+      "termino": "Rodera",
+      "definicion": "Camino abierto por el paso de los carros a través de los campos.",
+      "letra": "R"
+    },
+    {
+      "id": "ronda",
+      "termino": "Ronda",
+      "definicion": "Camino contiguo a una muralla, sea en su interior o en el exterior.",
+      "letra": "R"
+    },
+    {
+      "id": "roquedal",
+      "termino": "Roquedal",
+      "definicion": "Lugar abundante en rocas.",
+      "letra": "R"
+    },
+    {
+      "id": "roquedo",
+      "termino": "Roquedo",
+      "definicion": "Peñasco o roca.",
+      "letra": "R"
+    },
+    {
+      "id": "rua",
+      "termino": "Rúa",
+      "definicion": "Calle de un pueblo. Camino carretero.",
+      "letra": "R"
+    },
+    {
+      "id": "ruderal",
+      "termino": "Ruderal",
+      "definicion": "Propio de terrenos incultos o de aquellos donde se vierten desperdicios o escombros.",
+      "letra": "R"
+    },
+    {
+      "id": "ruta",
+      "termino": "Ruta",
+      "definicion": "Camino o dirección que se toma para un propósito.",
+      "letra": "R"
+    },
+    {
+      "id": "salobral",
+      "termino": "Salobral",
+      "definicion": "Terreno salobreño.",
+      "letra": "S"
+    },
+    {
+      "id": "selva",
+      "termino": "Selva",
+      "definicion": "Terreno extenso, inculto y muy poblado de árboles.",
+      "letra": "S"
+    },
+    {
+      "id": "senda",
+      "termino": "Senda",
+      "definicion": "Camino más estrecho que la vereda, abierto principalmente por el tránsito de peatones y del ganado menor.",
+      "letra": "S"
+    },
+    {
+      "id": "seroja",
+      "termino": "Seroja",
+      "definicion": "Hojarasca seca que cae de los árboles.",
+      "letra": "S"
+    },
+    {
+      "id": "sierra",
+      "termino": "Sierra",
+      "definicion": "Cordillera de montes o peñascos cortados.",
+      "letra": "S"
+    },
+    {
+      "id": "sima",
+      "termino": "Sima",
+      "definicion": "Cavidad grande y muy profunda en la tierra.",
+      "letra": "S"
+    },
+    {
+      "id": "sinclinal",
+      "termino": "Sinclinal",
+      "definicion": "Dicho de un pliegue de las capas de un terreno: Que tiene en su núcleo los materiales más recientes.",
+      "letra": "S"
+    },
+    {
+      "id": "solana",
+      "termino": "Solana",
+      "definicion": "Zona iluminada y calentada por el Sol.",
+      "letra": "S"
+    },
+    {
+      "id": "somo",
+      "termino": "Somo",
+      "definicion": "Cima de monte, cerro, o parte más alta, o paso elevado, de una cordillera, o incluso de un collado o nava.",
+      "letra": "S"
+    },
+    {
+      "id": "soto",
+      "termino": "Soto",
+      "definicion": "Sitio que en las riberas o vegas está poblado de árboles y arbustos.",
+      "letra": "S"
+    },
+    {
+      "id": "sl",
+      "termino": "SL",
+      "definicion": "Senderos locales (SL) Blanco y verde",
+      "letra": "S"
+    },
+    {
+      "id": "tabla",
+      "termino": "Tabla",
+      "definicion": "Faja de tierra, y especialmente la labrantía comprendida entre dos filas de árboles.",
+      "letra": "T"
+    },
+    {
+      "id": "tajea",
+      "termino": "Tajea",
+      "definicion": "Puente pequeño en un camino, hecho para que por debajo de él pasen las aguas o una vía de comunicación poco importante.",
+      "letra": "T"
+    },
+    {
+      "id": "talud",
+      "termino": "Talud",
+      "definicion": "Es la inclinación del terreno que queda a los lados de un camino, sobre todo si hay una diferencia de altura notable",
+      "letra": "T"
+    },
+    {
+      "id": "tenada",
+      "termino": "Tenada",
+      "definicion": "Tinada = Cobertizo",
+      "letra": "T"
+    },
+    {
+      "id": "terrero",
+      "termino": "Terrero",
+      "definicion": "Montón de tierra depositado por las aguas.",
+      "letra": "T"
+    },
+    {
+      "id": "teso",
+      "termino": "Teso",
+      "definicion": "Colina baja que tiene alguna extensión llana en la cima.",
+      "letra": "T"
+    },
+    {
+      "id": "tinada",
+      "termino": "Tinada",
+      "definicion": "Cobertizo para tener recogidos los ganados, y particularmente los bueyes.",
+      "letra": "T"
+    },
+    {
+      "id": "tolla",
+      "termino": "Tolla",
+      "definicion": "Terreno húmedo que se mueve al pisarlo y difícil de atravesar.",
+      "letra": "T"
+    },
+    {
+      "id": "tolmo",
+      "termino": "Tolmo",
+      "definicion": "Peñasco elevado, que tiene semejanza con un gran hito o mojón.",
+      "letra": "T"
+    },
+    {
+      "id": "torca",
+      "termino": "Torca",
+      "definicion": "Depresión circular con bordes escarpados en un terreno.",
+      "letra": "T"
+    },
+    {
+      "id": "torcal",
+      "termino": "Torcal",
+      "definicion": "Terreno donde hay torcas.",
+      "letra": "T"
+    },
+    {
+      "id": "tomillar",
+      "termino": "Tomillar",
+      "definicion": "Sitio poblado de tomillos.",
+      "letra": "T"
+    },
+    {
+      "id": "tormo",
+      "termino": "Tormo",
+      "definicion": "Término que se usa principalmente en geología y geomorfología para referirse a una masa de roca aislada que sobresale del terreno circundante.",
+      "letra": "T"
+    },
+    {
+      "id": "torno",
+      "termino": "Torno",
+      "definicion": "Vuelta alrededor, movimiento circular o rodeo. Recodo que forma el cauce de un río y en el cual adquiere por lo común mucha fuerza la corriente.",
+      "letra": "T"
+    },
+    {
+      "id": "tozal",
+      "termino": "Tozal",
+      "definicion": "(Teso) Colina baja que tiene alguna extensión llana en la cima.",
+      "letra": "T"
+    },
+    {
+      "id": "trampal",
+      "termino": "Trampal",
+      "definicion": "Pantano, atolladero, tremedal. Zona ampliamente encharcada con barro, hierbas…",
+      "letra": "T"
+    },
+    {
+      "id": "travesia",
+      "termino": "Travesía",
+      "definicion": "Camino transversal entre otros dos.",
+      "letra": "T"
+    },
+    {
+      "id": "tremedal",
+      "termino": "Tremedal",
+      "definicion": "Terreno pantanoso, abundante en turba, cubierto de césped, y que por su escasa consistencia retiembla cuando se anda sobre él.",
+      "letra": "T"
+    },
+    {
+      "id": "trocha",
+      "termino": "Trocha",
+      "definicion": "Vereda angosta y separada del camino ordinario y ancho que suele servir de atajo a las gentes de a pie o a caballo. Es un camino con vegetación.",
+      "letra": "T"
+    },
+    {
+      "id": "tuca",
+      "termino": "Tuca",
+      "definicion": "En Aragón, pico agudo que sobresale entre montañas más accesibles y redondeadas.",
+      "letra": "T"
+    },
+    {
+      "id": "turmal",
+      "termino": "Turmal",
+      "definicion": "turbal o tremal, se utiliza para designar: un terreno pantanoso o encharcado, con suelos muy húmedos, generalmente ricos en materia orgánica, donde el agua permanece de forma casi permanente.",
+      "letra": "T"
+    },
+    {
+      "id": "umbria",
+      "termino": "Umbría",
+      "definicion": "Vertiente menos iluminada por el Sol, por oposición a la solana.",
+      "letra": "U"
+    },
+    {
+      "id": "vadear",
+      "termino": "Vadear",
+      "definicion": "Pasar un río u otra corriente de agua profunda por el vado o por cualquier otro sitio donde se pueda hacer pie.",
+      "letra": "V"
+    },
+    {
+      "id": "vado",
+      "termino": "Vado",
+      "definicion": "Lugar de un río con fondo firme, llano y poco profundo por donde se puede pasar andando, cabalgando o en algún vehículo.",
+      "letra": "V"
+    },
+    {
+      "id": "vaguada",
+      "termino": "Vaguada",
+      "definicion": "Línea que marca la parte más honda de un valle, y es el camino por donde van las aguas de las corrientes naturales.",
+      "letra": "V"
+    },
+    {
+      "id": "valle",
+      "termino": "Valle",
+      "definicion": "Llanura entre montes o alturas. Cuenca de un río.",
+      "letra": "V"
+    },
+    {
+      "id": "venero",
+      "termino": "Venero",
+      "definicion": "Manantial de agua.",
+      "letra": "V"
+    },
+    {
+      "id": "ventisquero",
+      "termino": "Ventisquero",
+      "definicion": "Sitio, en las alturas de los montes, donde se conserva la nieve y el hielo.",
+      "letra": "V"
+    },
+    {
+      "id": "vereda",
+      "termino": "Vereda",
+      "definicion": "Camino angosto, formado comúnmente por el tránsito de peatones y ganados. Según la legislación de la Mesta, vía pastoril para los ganados trashumantes de, como mínimo, 25 varas de ancho (aproximadamente 21 m).",
+      "letra": "V"
+    },
+    {
+      "id": "vericueto",
+      "termino": "Vericueto",
+      "definicion": "Vulgarmente los sitios ásperos, quebrados y solitarios.",
+      "letra": "V"
+    },
+    {
+      "id": "veril",
+      "termino": "Veril",
+      "definicion": "Faja estrecha de terreno colindante con un camino o una carretera.",
+      "letra": "V"
+    },
+    {
+      "id": "viaducto",
+      "termino": "Viaducto",
+      "definicion": "Obra a manera de puente, para el paso de un camino sobre una hondonada.",
+      "letra": "V"
+    },
+    {
+      "id": "via",
+      "termino": "Vía",
+      "definicion": "Camino.",
+      "letra": "V"
+    },
+    {
+      "id": "via-pecuaria",
+      "termino": "Vía pecuaria",
+      "definicion": "Camino de dominio público, tradicionalmente utilizado para la circulación de los ganados y que actualmente suele tener otros usos adicionales (deportivos, recreativos, medioambientales, etc.).",
+      "letra": "V"
+    },
+    {
+      "id": "viso",
+      "termino": "Viso",
+      "definicion": "Altura desde donde se descubre mucho terreno.",
+      "letra": "V"
+    },
+    {
+      "id": "vivac",
+      "termino": "Vivac",
+      "definicion": "Pasar la noche a la intemperie, sin tienda de campaña.",
+      "letra": "V"
+    },
+    {
+      "id": "yermo",
+      "termino": "Yermo",
+      "definicion": "Terreno deshabitado y sin cultivo.",
+      "letra": "Y"
+    },
+    {
+      "id": "zahorra",
+      "termino": "Zahorra",
+      "definicion": "Piedra menuda triturada y compactada que se usa para pavimentos.",
+      "letra": "Z"
+    }
+  ]
+}
