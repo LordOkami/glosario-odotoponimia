@@ -482,6 +482,52 @@ body {
     }
 }
 
+/* Term Illustration */
+.term-illustration {
+    width: 100%;
+    max-width: 120px;
+    height: 80px;
+    margin: 0 auto var(--spacing-sm);
+    opacity: 0.15;
+    transition: opacity var(--transition-base);
+    color: var(--color-primary);
+}
+
+.term-card:hover .term-illustration {
+    opacity: 0.25;
+}
+
+.term-illustration svg {
+    width: 100%;
+    height: 100%;
+}
+
+.modal-illustration {
+    width: 100%;
+    max-width: 200px;
+    height: 120px;
+    margin: 0 auto var(--spacing-lg);
+    opacity: 0.2;
+    color: var(--color-primary);
+}
+
+.modal-illustration svg {
+    width: 100%;
+    height: 100%;
+}
+
+@media (min-width: 640px) {
+    .term-illustration {
+        max-width: 140px;
+        height: 90px;
+    }
+
+    .modal-illustration {
+        max-width: 250px;
+        height: 150px;
+    }
+}
+
 /* No Results */
 .no-results {
     text-align: center;

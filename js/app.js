@@ -29,6 +29,7 @@ const DOM = {
     modal: document.getElementById('term-modal'),
     modalBackdrop: document.getElementById('modal-backdrop'),
     modalClose: document.getElementById('modal-close'),
+    modalIllustration: document.getElementById('modal-illustration'),
     modalLetter: document.getElementById('modal-letter'),
     modalTitle: document.getElementById('modal-title'),
     modalDefinition: document.getElementById('modal-definition'),
@@ -306,7 +307,11 @@ function crearTarjetaTermino(termino, index) {
     // Add staggered animation delay
     card.style.animationDelay = `${index * 0.05}s`;
 
+    // Get illustration for this term
+    const ilustracion = obtenerIlustracion(termino.termino);
+
     card.innerHTML = `
+        <div class="term-illustration">${ilustracion}</div>
         <div class="term-header">
             <span class="term-letter">${termino.letra}</span>
             <h3 class="term-title">${termino.termino}</h3>
@@ -352,6 +357,11 @@ function actualizarEstadisticas() {
  * Open modal with term details
  */
 function abrirModal(termino) {
+    // Set illustration
+    const ilustracion = obtenerIlustracion(termino.termino);
+    DOM.modalIllustration.innerHTML = ilustracion;
+
+    // Set content
     DOM.modalLetter.textContent = termino.letra;
     DOM.modalTitle.textContent = termino.termino;
     DOM.modalDefinition.textContent = termino.definicion;
