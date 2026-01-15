@@ -342,7 +342,14 @@ function crearTarjetaTermino(termino, index) {
     // Add staggered animation delay
     card.style.animationDelay = `${index * 0.05}s`;
 
-    // Get illustration for this term
+    // Get illustration URL for background
+    const nombreArchivo = normalizarNombreTermino(termino.termino);
+    const rutaImagen = `assets/img/${nombreArchivo}.png`;
+
+    // Set background image using CSS custom property
+    card.style.setProperty('--bg-image', `url('${rutaImagen}')`);
+
+    // Get illustration for modal (keeps the current system)
     const ilustracion = obtenerIlustracion(termino.termino);
 
     card.innerHTML = `
@@ -366,6 +373,17 @@ function crearTarjetaTermino(termino, index) {
     });
 
     return card;
+}
+
+/**
+ * Normalize text for filenames (same as in ilustraciones.js)
+ */
+function normalizarNombreTermino(termino) {
+    return termino.toLowerCase()
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '') // Remove accents
+        .replace(/\s+/g, '-') // Spaces to hyphens
+        .replace(/[()]/g, ''); // Remove parentheses
 }
 
 /**
