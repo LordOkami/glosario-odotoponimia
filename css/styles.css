@@ -491,6 +491,9 @@ body {
     opacity: 0.15;
     transition: opacity var(--transition-base);
     color: var(--color-primary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .term-card:hover .term-illustration {
@@ -502,6 +505,13 @@ body {
     height: 100%;
 }
 
+.term-illustration img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: center;
+}
+
 .modal-illustration {
     width: 100%;
     max-width: 200px;
@@ -509,11 +519,21 @@ body {
     margin: 0 auto var(--spacing-lg);
     opacity: 0.2;
     color: var(--color-primary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .modal-illustration svg {
     width: 100%;
     height: 100%;
+}
+
+.modal-illustration img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: center;
 }
 
 @media (min-width: 640px) {

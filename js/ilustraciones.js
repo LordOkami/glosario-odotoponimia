@@ -420,9 +420,11 @@ function normalizarNombreTermino(termino) {
 function obtenerIlustracion(termino) {
     const nombreArchivo = normalizarNombreTermino(termino);
     const rutaImagen = `assets/img/${nombreArchivo}.png`;
+    const categoria = obtenerCategoriaIlustracion(termino);
+    const svgFallback = ilustracionesSVG[categoria] || ilustracionesSVG.especial;
 
-    // Intentar usar imagen PNG primero
-    return `<img src="${rutaImagen}" alt="${termino}" onerror="this.style.display='none'; this.parentElement.innerHTML=\`${ilustracionesSVG[obtenerCategoriaIlustracion(termino)] || ilustracionesSVG.especial}\`" style="width: 100%; height: 100%; object-fit: contain;">`;
+    // Intentar usar imagen PNG primero, con fallback a SVG
+    return `<img src="${rutaImagen}" alt="${termino}" onerror="this.onerror=null; this.style.display='none'; this.parentElement.innerHTML='${svgFallback.replace(/'/g, "\\'")}'" loading="lazy">`;
 }
 
 // Exportar para uso en otros módulos
