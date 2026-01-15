@@ -104,11 +104,12 @@ body {
 .header {
     background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-dark) 100%);
     color: white;
-    padding: var(--spacing-lg) 0;
+    padding: var(--spacing-sm) 0;
     box-shadow: var(--shadow-md);
     position: sticky;
     top: 0;
     z-index: 100;
+    transition: padding var(--transition-base), box-shadow var(--transition-base);
 }
 
 .header-content {
@@ -117,43 +118,109 @@ body {
 
 .header-title {
     font-family: var(--font-display);
-    font-size: 1.75rem;
+    font-size: 1.25rem;
     font-weight: 700;
     margin-bottom: var(--spacing-xs);
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: var(--spacing-sm);
+    gap: var(--spacing-xs);
+    transition: font-size var(--transition-base);
 }
 
 .header-logo {
-    height: 6rem;
+    height: 3rem;
     width: auto;
     object-fit: contain;
     filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2));
+    transition: height var(--transition-base);
 }
 
 .header-subtitle {
-    font-size: 0.95rem;
+    font-size: 0.85rem;
     opacity: 0.9;
     font-weight: 300;
+    transition: font-size var(--transition-base), opacity var(--transition-base);
+}
+
+/* Header cuando se hace scroll */
+.header.scrolled {
+    padding: var(--spacing-xs) 0;
+    box-shadow: var(--shadow-lg);
+}
+
+.header.scrolled .header-logo {
+    height: 2rem;
+}
+
+.header.scrolled .header-title {
+    font-size: 1.1rem;
+    margin-bottom: 0;
+}
+
+.header.scrolled .header-subtitle {
+    font-size: 0.75rem;
+    opacity: 0.8;
 }
 
 @media (min-width: 640px) {
     .header {
-        padding: var(--spacing-xl) 0;
+        padding: var(--spacing-md) 0;
     }
 
     .header-title {
-        font-size: 2.5rem;
+        font-size: 1.75rem;
+        gap: var(--spacing-sm);
     }
 
     .header-logo {
-        height: 7.5rem;
+        height: 4.5rem;
+    }
+
+    .header-subtitle {
+        font-size: 1rem;
+    }
+
+    .header.scrolled {
+        padding: var(--spacing-sm) 0;
+    }
+
+    .header.scrolled .header-logo {
+        height: 2.5rem;
+    }
+
+    .header.scrolled .header-title {
+        font-size: 1.5rem;
+    }
+
+    .header.scrolled .header-subtitle {
+        font-size: 0.9rem;
+    }
+}
+
+@media (min-width: 1024px) {
+    .header {
+        padding: var(--spacing-lg) 0;
+    }
+
+    .header-title {
+        font-size: 2.25rem;
+    }
+
+    .header-logo {
+        height: 5.5rem;
     }
 
     .header-subtitle {
         font-size: 1.1rem;
+    }
+
+    .header.scrolled .header-logo {
+        height: 3rem;
+    }
+
+    .header.scrolled .header-title {
+        font-size: 1.75rem;
     }
 }
 

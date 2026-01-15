@@ -168,6 +168,9 @@ function configurarEventListeners() {
         }
     });
 
+    // Header scroll effect
+    configurarScrollHeader();
+
     // Prevent body scroll when modal is open
     const observer = new MutationObserver((mutations) => {
         mutations.forEach((mutation) => {
@@ -182,6 +185,38 @@ function configurarEventListeners() {
     });
 
     observer.observe(DOM.modal, { attributes: true });
+}
+
+/**
+ * Configure header scroll effect
+ */
+function configurarScrollHeader() {
+    const header = document.querySelector('.header');
+    let lastScrollY = window.scrollY;
+    let ticking = false;
+
+    function actualizarHeader() {
+        const scrollY = window.scrollY;
+
+        if (scrollY > 50) {
+            header.classList.add('scrolled');
+        } else {
+            header.classList.remove('scrolled');
+        }
+
+        lastScrollY = scrollY;
+        ticking = false;
+    }
+
+    window.addEventListener('scroll', () => {
+        if (!ticking) {
+            window.requestAnimationFrame(actualizarHeader);
+            ticking = true;
+        }
+    });
+
+    // Initial check
+    actualizarHeader();
 }
 
 // ===================================================
