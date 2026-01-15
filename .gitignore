@@ -32,6 +32,9 @@ yarn-error.log*
 .env.local
 .env.*.local
 
+# Image generation progress
+generation-progress.json
+
 # Optional npm cache directory
 .npm
 

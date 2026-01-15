@@ -404,11 +404,25 @@ function obtenerCategoriaIlustracion(termino) {
 }
 
 /**
- * Obtiene el SVG de ilustración para un término
+ * Normaliza el nombre del término para usarlo como nombre de archivo
+ */
+function normalizarNombreTermino(termino) {
+    return termino.toLowerCase()
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '') // Eliminar acentos
+        .replace(/\s+/g, '-') // Espacios a guiones
+        .replace(/[()]/g, ''); // Eliminar paréntesis
+}
+
+/**
+ * Obtiene la ilustración para un término (PNG si existe, sino SVG)
  */
 function obtenerIlustracion(termino) {
-    const categoria = obtenerCategoriaIlustracion(termino);
-    return ilustracionesSVG[categoria] || ilustracionesSVG.especial;
+    const nombreArchivo = normalizarNombreTermino(termino);
+    const rutaImagen = `assets/img/${nombreArchivo}.png`;
+
+    // Intentar usar imagen PNG primero
+    return `<img src="${rutaImagen}" alt="${termino}" onerror="this.style.display='none'; this.parentElement.innerHTML=\`${ilustracionesSVG[obtenerCategoriaIlustracion(termino)] || ilustracionesSVG.especial}\`" style="width: 100%; height: 100%; object-fit: contain;">`;
 }
 
 // Exportar para uso en otros módulos
