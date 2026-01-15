@@ -516,10 +516,10 @@ body {
 
 .modal-illustration {
     width: 100%;
-    max-width: 200px;
-    height: 120px;
+    max-width: 100%;
+    height: 300px;
     margin: 0 auto var(--spacing-lg);
-    opacity: 0.2;
+    opacity: 0.3;
     color: var(--color-primary);
     display: flex;
     align-items: center;
@@ -545,8 +545,8 @@ body {
     }
 
     .modal-illustration {
-        max-width: 250px;
-        height: 150px;
+        max-width: 100%;
+        height: 400px;
     }
 }
 
