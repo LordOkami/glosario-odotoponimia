@@ -346,13 +346,12 @@ function crearTarjetaTermino(termino, index) {
     const nombreArchivo = normalizarNombreTermino(termino.termino);
     const rutaImagen = `assets/img/${nombreArchivo}.png`;
 
-    // Set background image using CSS custom property
-    card.style.setProperty('--bg-image', `url('${rutaImagen}')`);
-
     // Get illustration for modal (keeps the current system)
     const ilustracion = obtenerIlustracion(termino.termino);
 
     card.innerHTML = `
+        <div class="term-bg-image" style="background-image: url('${rutaImagen}')"></div>
+        <div class="term-bg-overlay"></div>
         <div class="term-illustration">${ilustracion}</div>
         <div class="term-header">
             <span class="term-letter">${termino.letra}</span>
