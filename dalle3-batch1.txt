@@ -1,0 +1,101 @@
+╔════════════════════════════════════════════════════════════╗
+║        BATCH 1/7 - ChatGPT Plus con DALL-E 3            ║
+║           Imágenes 1-40 (40 imágenes)                  ║
+╚════════════════════════════════════════════════════════════╝
+
+INSTRUCCIONES:
+1. Copia TODO el prompt de abajo
+2. Pégalo en ChatGPT Plus (https://chat.openai.com)
+3. Espera a que genere las 40 imágenes
+4. Descarga todas (click derecho → Guardar imagen)
+5. Muévelas a la carpeta del proyecto
+6. Ejecuta: node organize-dalle3-images.js
+
+════════════════════════════════════════════════════════════
+
+Genera 40 imágenes con estilo de ilustración hecha a mano a lápiz, sutiles y elegantes, como ilustraciones de un libro de biología antiguo, sin texto alguno. Cada ilustración debe ser minimalista y científica:
+
+1. AVENIDA: circulación de agua desde aguas arriba o camino que conduce a un pueblo
+2. AZABER: cauce para el sobrante de riego
+3. AZAGADOR: vereda o camino por donde las ovejas van una tras otra
+4. AZUD: máquina en forma de rueda movida por la corriente de un río o barrera para desviar agua
+5. BAHÍA: entrada natural de mar en la costa de extensión considerable
+6. BANCAL: rellano de tierra en terreno pendiente aprovechado para cultivo
+7. BARRANCO: despeñadero o quiebra producida por corrientes de agua
+8. BATÁN: máquina hidráulica con mazos para golpear paños
+9. BERMA: franja al borde del camino como zona de seguridad o drenaje
+10. BERROCAL: sitio lleno de peñascos graníticos redondeados
+11. BOCA: entrada o salida, abertura o agujero
+12. BOQUERÓN: abertura grande
+13. BORDA: cabaña del Pirineo para albergue de pastores y ganado
+14. BOSQUE: sitio poblado de árboles y matas
+15. BRAÑA: pasto de verano en laderas de montaña con praderas y agua abundante
+16. BREÑA: tierra quebrada entre peñas y poblada de maleza
+17. BULEVAR: calle generalmente ancha y con árboles
+18. CABAÑERO: cañada en Aragón, vía pecuaria para el tránsito del ganado
+19. CABO: lengua de tierra que penetra en el mar
+20. CABRERA: paraje abrupto donde solo las cabras pueden andar
+21. CACERA: zanja o canal para conducir el agua de riego
+22. CACUMEN: altura o cumbre en los montes
+23. CALA: ensenada pequeña
+24. CALLAO: terreno llano y cubierto de cantos rodados
+25. CALLE: vía pública entre edificios o solares
+26. CALVERO: paraje sin árboles en lo interior de un bosque
+27. CALZADA: camino pavimentado y ancho
+28. CAMINO: tierra hollada por donde se transita habitualmente
+29. CAMINO ASENDEREADO: camino común y frecuentado
+30. CAMINO DE CARROS: camino destinado al tránsito de carruajes
+31. CAMINO DE CABRAS: camino de montaña estrecho y muy accidentado
+32. CAMINO DE HERRADURA: camino por donde solo pueden transitar caballerías
+33. CAMINO DE SIRGA: camino a orillas de ríos para llevar embarcaciones tirando desde tierra
+34. CAMPO: terreno extenso fuera de poblado, tierra cultivada
+35. CAMPILLO: campo común de un pueblo donde se reúnen los ganados
+36. CAMPIÑA: espacio grande de tierra llana destinado al cultivo
+37. CANAL: llanura larga y estrecha entre dos montañas
+38. CANCHAL: peñascal formado por acumulación de bloques de roca angulosos
+39. CANCHO: peñasco más o menos abrupto de grandes dimensiones
+40. CÁNDALO: rama seca o tronco seco de pino
+
+════════════════════════════════════════════════════════════
+
+LISTA DE TÉRMINOS (para referencia):
+1. avenida → avenida.png
+2. azaber → azaber.png
+3. azagador → azagador.png
+4. azud → azud.png
+5. bahía → bahia.png
+6. bancal → bancal.png
+7. barranco → barranco.png
+8. batán → batan.png
+9. berma → berma.png
+10. berrocal → berrocal.png
+11. boca → boca.png
+12. boquerón → boqueron.png
+13. borda → borda.png
+14. bosque → bosque.png
+15. braña → brana.png
+16. breña → brena.png
+17. bulevar → bulevar.png
+18. cabañero → cabanero.png
+19. cabo → cabo.png
+20. cabrera → cabrera.png
+21. cacera → cacera.png
+22. cacumen → cacumen.png
+23. cala → cala.png
+24. callao → callao.png
+25. calle → calle.png
+26. calvero → calvero.png
+27. calzada → calzada.png
+28. camino → camino.png
+29. camino asendereado → camino-asendereado.png
+30. camino de carros → camino-carros-carretero-carretil-o-de-ruedas.png
+31. camino de cabras → camino-de-cabras.png
+32. camino de herradura → camino-de-herradura-o-de-caballos.png
+33. camino de sirga → camino-de-sirga.png
+34. campo → campo.png
+35. campillo → campillo.png
+36. campiña → campina.png
+37. canal → canal.png
+38. canchal → canchal.png
+39. cancho → cancho.png
+40. cándalo → candalo.png

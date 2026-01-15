@@ -1,0 +1,101 @@
+╔════════════════════════════════════════════════════════════╗
+║        BATCH 4/7 - ChatGPT Plus con DALL-E 3            ║
+║           Imágenes 121-160 (40 imágenes)                  ║
+╚════════════════════════════════════════════════════════════╝
+
+INSTRUCCIONES:
+1. Copia TODO el prompt de abajo
+2. Pégalo en ChatGPT Plus (https://chat.openai.com)
+3. Espera a que genere las 40 imágenes
+4. Descarga todas (click derecho → Guardar imagen)
+5. Muévelas a la carpeta del proyecto
+6. Ejecuta: node organize-dalle3-images.js
+
+════════════════════════════════════════════════════════════
+
+Genera 40 imágenes con estilo de ilustración hecha a mano a lápiz, sutiles y elegantes, como ilustraciones de un libro de biología antiguo, sin texto alguno. Cada ilustración debe ser minimalista y científica:
+
+1. GLERA: arenal, cascajar o pedregal en Aragón
+2. GOLFO: gran porción de mar que se interna en la tierra entre dos cabos
+3. GR: senderos de gran recorrido marcados en blanco y rojo
+4. GUIJA: piedra lisa y pequeña de orillas de ríos
+5. GUIJARRO: pequeño canto rodado
+6. HACHO: lugar elevado de la costa donde se encendían antorchas
+7. HAZA: porción de tierra labrantía o de sembradura
+8. HAYEDO: sitio poblado de hayas
+9. HELERO: masa de hielo que se derrite en veranos muy calurosos
+10. HERRADURA: meandro muy cerrado
+11. HERRÉN: forraje de avena y cebada para el ganado
+12. HITO: mojón o poste de piedra que indica dirección o límites
+13. : pisar dejando señal de la pisada
+14. HONDONADA: terreno bajo y ancho al que se desciende en declive
+15. HONTANAR: sitio donde nacen fuentes o manantiales
+16. HORCAJO: confluencia de dos ríos o arroyos
+17. HOYA: depresión amplia como un cuenco natural entre montañas
+18. HOYO: concavidad que se forma en el campo
+19. HOZ: angostura de un valle profundo
+20. HOZADURA: hoyo que deja un animal por haber hozado
+21. HUECO: hundimiento, cavidad o depresión
+22. HUMILLADERO: lugar devoto a las entradas de pueblos con cruz o imagen
+23. IBÓN: laguna en Pirineos a gran altura alimentada por nieve
+24. INTEGRAL: travesía completa de toda una cuerda o cordillera
+25. KARST: paisaje de relieve accidentado con grietas y crestas agudas
+26. JACILLA: señal o huella que deja algo en la tierra
+27. JARAL: sitio poblado de jaras
+28. LADERA: declive que hace un monte por alguno de sus costados
+29. LAJA: roca plana que se parte en láminas delgadas
+30. LANCHA: piedra grande, naturalmente lisa y plana
+31. LAVAJO: charca de agua llovediza que rara vez se seca
+32. LEGUA: medida itineraria equivalente a 5572,7 metros
+33. TERRENO LIEGO: terreno que no sirve para sembrar
+34. LLAMBRIA: plano muy inclinado de una peña difícil de pasar
+35. LOMA: altura pequeña y prolongada
+36. LOMBA: loma o colina, parte de ladera entre dos barrancos
+37. LONGUERA: porción de tierra larga y estrecha
+38. LUCO: bosque o selva de árboles cerrados y espesos
+39. MACADÁN: pavimento de piedra machacada comprimida con rodillo
+40. MADREVIEJA: cauce de río o arroyo seco
+
+════════════════════════════════════════════════════════════
+
+LISTA DE TÉRMINOS (para referencia):
+1. glera → glera.png
+2. golfo → golfo.png
+3. GR → gr.png
+4. guija → guija.png
+5. guijarro → guijarro.png
+6. hacho → hacho.png
+7. haza → haza.png
+8. hayedo → hayedo.png
+9. helero → helero.png
+10. herradura → herradura.png
+11. herrén → herren.png
+12. hito → hito.png
+13.  → hollar.png
+14. hondonada → hondonada.png
+15. hontanar → hontanar.png
+16. horcajo → horcajo.png
+17. hoya → hoya.png
+18. hoyo → hoyo.png
+19. hoz → hoz.png
+20. hozadura → hozadura.png
+21. hueco → hueco.png
+22. humilladero → humilladero.png
+23. ibón → ibon.png
+24. integral → integral.png
+25. karst → karst.png
+26. jacilla → jacilla.png
+27. jaral → jaral.png
+28. ladera → ladera.png
+29. laja → laja.png
+30. lancha → lancha.png
+31. lavajo → lavajo.png
+32. legua → legua.png
+33. terreno liego → liego.png
+34. llambria → llambria.png
+35. loma → loma.png
+36. lomba → lomba.png
+37. longuera → longuera.png
+38. luco → luco.png
+39. macadán → macadan.png
+40. madrevieja → madrevieja.png

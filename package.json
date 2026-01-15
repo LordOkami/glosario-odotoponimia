@@ -1,0 +1,26 @@
+{
+  "name": "glosario-odotoponimia",
+  "version": "1.0.0",
+  "description": "Glosario de Odotoponimia - Descripción de caminos y geografía",
+  "type": "module",
+  "scripts": {
+    "generate-images": "node generate-images.js",
+    "generate:continue": "node generate-images.js",
+    "generate:huggingface": "node generate-images-huggingface.js",
+    "generate:hf": "node generate-images-huggingface.js",
+    "batches": "node create-dalle3-batches.js",
+    "organize": "node organize-dalle3-images.js"
+  },
+  "keywords": [
+    "odotoponimia",
+    "caminos",
+    "geografía",
+    "glosario"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {}
+}

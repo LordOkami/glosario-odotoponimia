@@ -1,0 +1,101 @@
+╔════════════════════════════════════════════════════════════╗
+║        BATCH 3/7 - ChatGPT Plus con DALL-E 3            ║
+║           Imágenes 81-120 (40 imágenes)                  ║
+╚════════════════════════════════════════════════════════════╝
+
+INSTRUCCIONES:
+1. Copia TODO el prompt de abajo
+2. Pégalo en ChatGPT Plus (https://chat.openai.com)
+3. Espera a que genere las 40 imágenes
+4. Descarga todas (click derecho → Guardar imagen)
+5. Muévelas a la carpeta del proyecto
+6. Ejecuta: node organize-dalle3-images.js
+
+════════════════════════════════════════════════════════════
+
+Genera 40 imágenes con estilo de ilustración hecha a mano a lápiz, sutiles y elegantes, como ilustraciones de un libro de biología antiguo, sin texto alguno. Cada ilustración debe ser minimalista y científica:
+
+1. DECLIVE: pendiente o inclinación del terreno
+2. DEGOLLADA: collado o paso elevado entre montañas en Canarias
+3. DEHESA: tierra acotada y arbolada destinada a pastos
+4. DEHESA BOYAL: dehesa comunal donde el vecindario apacienta sus ganados
+5. DERROCADERO: sitio peñascoso con peligro de caer y precipitarse
+6. DERROTA: camino, vereda o senda de tierra
+7. DERROTERO: camino o rumbo
+8. : sacar o apartar a alguien del camino
+9. DESCANSADERO: parte ensanchada de vía pecuaria para descanso del ganado
+10. DESFILADERO: paso estrecho entre montañas
+11. DESPEÑADERO: sitio elevado y peñascoso con peligro de precipitarse
+12. DOLINA: depresión profunda de paredes inclinadas en terrenos calizos
+13. EJIDO: campo común de un pueblo donde se reúnen los ganados
+14. EMBALSE: gran depósito de agua formado artificialmente con un dique
+15. ENCINAR: sitio poblado de encinas
+16. ENCRUCIJADA: lugar donde se cruzan dos o más calles o caminos
+17. : meterse entre riscos y peñascos
+18. ENSENADA: parte de mar que entra en la tierra
+19. ERA: espacio de tierra limpia donde se trillan las mieses
+20. ESCARPE: declive áspero del terreno
+21. ESCOLLO: peñasco a flor de agua que no se descubre bien
+22. ESCUPIDERA: paso estrecho y muy inclinado cerca de una cima
+23. ESTERO: faja de tierra a la orilla del mar por donde se extienden las mareas
+24. ESTUARIO: desembocadura de un río caudaloso en el mar con forma de embudo
+25. FAJA: franja mucho más larga que ancha
+26. FAJANA: terreno llano al pie de laderas formado por materiales desprendidos
+27. FARALLÓN: roca alta y tajada que sobresale en el mar
+28. FLECHA: indicador de dirección en forma de flecha
+29. FLECHA LITORAL: lengua alargada de arena que se proyecta hacia el mar
+30. FRAGOSIDAD: camino o terreno lleno de asperezas y breñas
+31. FREO: canal estrecho entre dos islas o entre isla y tierra firme
+32. FRESNEDA: paraje cubierto de fresnos
+33. FURNA: cavidad natural en terrenos volcánicos o costeros
+34. GALAYO: prominencia aguda de roca pelada que se eleva en un monte
+35. GALIANA: cañada
+36. GÁNDARA: tierra baja, inculta y llena de maleza
+37. GEODA: hueco de una roca tapizado de sustancia cristalizada
+38. GARGANTA: estrechura de montes, ríos u otros parajes
+39. GARMA: maleza o espesura de arbustos
+40. GLACIAR: masa de hielo que se desliza como un río de hielo
+
+════════════════════════════════════════════════════════════
+
+LISTA DE TÉRMINOS (para referencia):
+1. declive → declive.png
+2. degollada → degollada.png
+3. dehesa → dehesa.png
+4. dehesa boyal → dehesa-boyal.png
+5. derrocadero → derrocadero.png
+6. derrota → derrota.png
+7. derrotero → derrotero.png
+8.  → descaminar.png
+9. descansadero → descansadero.png
+10. desfiladero → desfiladero.png
+11. despeñadero → despenadero.png
+12. dolina → dolina.png
+13. ejido → ejido.png
+14. embalse → embalse.png
+15. encinar → encinar.png
+16. encrucijada → encrucijada.png
+17.  → enriscar.png
+18. ensenada → ensenada.png
+19. era → era.png
+20. escarpe → escarpe.png
+21. escollo → escollo.png
+22. Escupidera → escupidera.png
+23. estero → estero.png
+24. estuario → estuario.png
+25. faja → faja.png
+26. fajana → fajana.png
+27. farallón → farallon.png
+28. flecha → flecha.png
+29. flecha litoral → flecha-litoral.png
+30. fragosidad → fragosidad.png
+31. freo → freo.png
+32. fresneda → fresneda.png
+33. furna → furna.png
+34. galayo → galayo.png
+35. galiana → galiana.png
+36. gándara → gandara.png
+37. geoda → geoda.png
+38. garganta → garganta.png
+39. garma → garma.png
+40. glaciar → glaciar.png

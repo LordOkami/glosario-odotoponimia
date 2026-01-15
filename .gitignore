@@ -36,6 +36,9 @@ yarn-error.log*
 generation-progress.json
 generation-progress-hf.json
 
+# Downloaded images from ChatGPT (temporary)
+downloads/
+
 # Optional npm cache directory
 .npm
 

@@ -1,0 +1,101 @@
+╔════════════════════════════════════════════════════════════╗
+║        BATCH 5/7 - ChatGPT Plus con DALL-E 3            ║
+║           Imágenes 161-200 (40 imágenes)                  ║
+╚════════════════════════════════════════════════════════════╝
+
+INSTRUCCIONES:
+1. Copia TODO el prompt de abajo
+2. Pégalo en ChatGPT Plus (https://chat.openai.com)
+3. Espera a que genere las 40 imágenes
+4. Descarga todas (click derecho → Guardar imagen)
+5. Muévelas a la carpeta del proyecto
+6. Ejecuta: node organize-dalle3-images.js
+
+════════════════════════════════════════════════════════════
+
+Genera 40 imágenes con estilo de ilustración hecha a mano a lápiz, sutiles y elegantes, como ilustraciones de un libro de biología antiguo, sin texto alguno. Cada ilustración debe ser minimalista y científica:
+
+1. MAJADA: lugar donde se recoge el ganado de noche
+2. MAJANO: montón de cantos sueltos en tierras de labor
+3. MALPAÍS: campo de lava reciente con superficie tortuosa y árida
+4. MARCHA: modo de caminar o desplazamiento de personas
+5. MARGA: roca de color gris compuesta de carbonato de calcio y arcilla
+6. MARJAL: terreno bajo y pantanoso
+7. MACIZO: prominencia rocosa o grupo de alturas
+8. MILLA: medida itineraria romana equivalente a 1478,5 metros
+9. MOHEDA: monte alto con jarales y maleza
+10. MOJÓN: señal permanente para fijar linderos de heredades
+11. MOGOTE: montículo aislado de forma cónica rematado en punta roma
+12. MONTAÑA: gran elevación natural del terreno
+13. MONTE: tierra inculta cubierta de árboles y arbustos
+14. MORAL: árbol tropical de madera incorruptible
+15. MORRENA: montón de piedras y barro acumuladas por un glaciar
+16. MOTA: elevación de poca altura que se levanta sola en un llano
+17. MUGA: mojón, término o límite
+18. NAVA: tierra sin árboles y llana situada entre montañas
+19. OJO DE AGUA: manantial que surge en un llano
+20. OTERO: cerro aislado que domina un llano
+21. PAMPA: llanura extensa de América del Sur sin vegetación arbórea
+22. PANTANO: terreno hundido cenagoso donde las aguas se estancan
+23. PARADINA: monte bajo de pasto con corrales para ganado lanar
+24. PARAJE: lugar en el campo aislado y singular
+25. PÁRAMO: terreno yermo, raso y desabrigado
+26. PASADERA: piedras para atravesar un río a pie enjuto
+27. PASARELA: paso o puente pequeño
+28. PASO CANADIENSE: hueco cubierto por barras para obstaculizar ganado
+29. PAÚL: sitio pantanoso cubierto de hierbas
+30. PEDREGAL: sitio cubierto de piedras sueltas
+31. PEÑA: piedra grande sin labrar o montaña escarpada
+32. PEÑASCAL: sitio cubierto de peñascos
+33. PÉRTIGA: hito de señalización ganadera que marca límites
+34. PIEDEMONTE: parte baja de un monte
+35. PINAR: sitio o lugar poblado de pinos
+36. PICO: remate o cúspide de montañas elevadas que termina en punta
+37. PIORNAL: sitio poblado de piornos
+38. PISTA: camino por el monte para trabajos agroforestales
+39. PORÍS: cueva marina natural en la costa
+40. PORTACHUELO: boquete abierto en la convergencia de dos montes
+
+════════════════════════════════════════════════════════════
+
+LISTA DE TÉRMINOS (para referencia):
+1. majada → majada.png
+2. majano → majano.png
+3. malpaís → malpais.png
+4. marcha → marcha.png
+5. marga → marga.png
+6. marjal → marjal.png
+7. macizo → macizo.png
+8. milla → milla.png
+9. moheda → moheda.png
+10. mojón → mojon.png
+11. mogote → mogote.png
+12. montaña → montana.png
+13. monte → monte.png
+14. moral → moral.png
+15. morrena → morrena.png
+16. mota → mota.png
+17. muga → muga.png
+18. nava → nava.png
+19. ojo de agua → ojo-de-agua.png
+20. otero → otero.png
+21. pampa → pampa.png
+22. pantano → pantano.png
+23. paradina → paradina.png
+24. paraje → paraje.png
+25. páramo → paramo.png
+26. pasadera → pasadera.png
+27. pasarela → pasarela.png
+28. paso canadiense → paso-canadiense.png
+29. paúl → paul.png
+30. pedregal → pedregal.png
+31. peña → pena.png
+32. peñascal → penascal.png
+33. pértiga → pertiga.png
+34. piedemonte → piedemonte.png
+35. pinar → pinar.png
+36. pico → pico.png
+37. piornal → piornal.png
+38. pista → pista.png
+39. porís → poris.png
+40. portachuelo → portachuelo.png

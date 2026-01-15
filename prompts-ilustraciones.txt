@@ -1,0 +1,968 @@
+PROMPTS PARA GENERAR ILUSTRACIONES DEL GLOSARIO DE ODOTOPONIMIA
+=================================================================
+
+Instrucciones:
+- Usar ChatGPT u otro generador de imágenes IA
+- Copiar cada prompt tal cual
+- Guardar las imágenes como: [nombre-del-termino].png (sin acentos, espacios → guiones)
+- Colocar en la carpeta: assets/img/
+
+Formato base usado:
+"Genera una imagen hecha a mano y a lápiz de este término, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto"
+
+=================================================================
+
+1. abedular.png
+Genera una imagen hecha a mano y a lápiz de un abedular: sitio poblado de abedules, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+2. abrevadero.png (YA GENERADA)
+Genera una imagen hecha a mano y a lápiz de un abrevadero: sitio donde se da a beber al ganado, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+3. acantilado.png
+Genera una imagen hecha a mano y a lápiz de un acantilado: costa cortada verticalmente o a plomo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+4. acebeda.png
+Genera una imagen hecha a mano y a lápiz de una acebeda: sitio poblado de acebos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+5. acequia.png
+Genera una imagen hecha a mano y a lápiz de una acequia: zanja o canal por donde se conducen las aguas para regar, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+6. acena.png
+Genera una imagen hecha a mano y a lápiz de una aceña: molino harinero movido por agua o noria de cajones para riego, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+7. acera.png
+Genera una imagen hecha a mano y a lápiz de una acera: orilla de la calle ligeramente elevada y enlosada para peatones, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+8. acirate.png
+Genera una imagen hecha a mano y a lápiz de un acirate: escalón formado al abancalar terrenos que sirve de linde, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+9. alberca.png
+Genera una imagen hecha a mano y a lápiz de una alberca: depósito artificial de agua para el riego, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+10. albufera.png
+Genera una imagen hecha a mano y a lápiz de una albufera: laguna litoral de agua salina separada del mar por un cordón de arenas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+11. alcor.png
+Genera una imagen hecha a mano y a lápiz de un alcor: colina o collado, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+12. algar.png
+Genera una imagen hecha a mano y a lápiz de un algar: cueva o caverna, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+13. alijar.png
+Genera una imagen hecha a mano y a lápiz de un alijar: terreno silvestre con vegetación arbustiva, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+14. almiar.png
+Genera una imagen hecha a mano y a lápiz de un almiar: montón grande de paja o heno al aire libre, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+15. altozano.png
+Genera una imagen hecha a mano y a lápiz de un altozano: cerro o monte de poca altura en terreno llano, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+16. altiplanicie.png
+Genera una imagen hecha a mano y a lápiz de una altiplanicie: meseta de mucha extensión situada a mucha altitud, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+17. alud.png
+Genera una imagen hecha a mano y a lápiz de un alud: gran masa de nieve que se derrumba de los montes con violencia, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+18. alveo.png
+Genera una imagen hecha a mano y a lápiz de un álveo: cauce de un río o arroyo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+19. andariego.png
+Genera una imagen hecha a mano y a lápiz de un andariego: persona que anda mucho de un sitio a otro, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+20. andurrial.png
+Genera una imagen hecha a mano y a lápiz de un andurrial: paraje extraviado o fuera de camino, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+21. angostura.png
+Genera una imagen hecha a mano y a lápiz de una angostura: paso estrecho, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+22. anticlinal.png
+Genera una imagen hecha a mano y a lápiz de un anticlinal: pliegue de las capas de un terreno con materiales más antiguos en su núcleo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+23. apacheta.png
+Genera una imagen hecha a mano y a lápiz de una apacheta: lugar elevado de caminos o montañas con forma cónica de carácter sagrado, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+24. apartadero.png
+Genera una imagen hecha a mano y a lápiz de un apartadero: pedazo de terreno contiguo a los caminos donde descansan los ganados, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+25. aprisco.png
+Genera una imagen hecha a mano y a lápiz de un aprisco: paraje donde los pastores recogen el ganado para resguardarlo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+26. arcen.png
+Genera una imagen hecha a mano y a lápiz de un arcén: margen reservado a un lado de la carretera para peatones, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+27. argayo.png
+Genera una imagen hecha a mano y a lápiz de un argayo: desprendimiento de tierra y piedras por la ladera de un monte, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+28. arroyo.png
+Genera una imagen hecha a mano y a lápiz de un arroyo: corriente de agua de pequeña longitud y caudal irregular, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+29. artesa.png
+Genera una imagen hecha a mano y a lápiz de una artesa: cuenca fluvial de reducido tamaño, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+30. asenderear.png
+Genera una imagen hecha a mano y a lápiz de asenderear: acción de hacer o abrir senderos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+31. aspereza.png
+Genera una imagen hecha a mano y a lápiz de una aspereza: desigualdad del terreno que lo hace escabroso y difícil, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+32. atajo.png
+Genera una imagen hecha a mano y a lápiz de un atajo: senda para evitar rodeos de un camino cruzando terrenos difíciles, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+33. atalaya.png
+Genera una imagen hecha a mano y a lápiz de una atalaya: torre en lugar alto para registrar el campo o el mar, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+34. atascadero.png
+Genera una imagen hecha a mano y a lápiz de un atascadero: lodazal donde se atascan carruajes y personas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+35. atolladero.png
+Genera una imagen hecha a mano y a lápiz de un atolladero: barrizal o pradera encenagada difícil de atravesar, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+36. atrochar.png
+Genera una imagen hecha a mano y a lápiz de atrochar: ir por la trocha o campo traviesa para llegar más pronto, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+37. autopista.png
+Genera una imagen hecha a mano y a lápiz de una autopista: carretera con calzadas separadas y varios carriles sin cruces a nivel, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+38. autovia.png
+Genera una imagen hecha a mano y a lápiz de una autovía: carretera con calzadas separadas para los dos sentidos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+39. avenida.png
+Genera una imagen hecha a mano y a lápiz de una avenida: circulación de agua desde aguas arriba o camino que conduce a un pueblo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+40. azaber.png
+Genera una imagen hecha a mano y a lápiz de un azaber: cauce para el sobrante de riego, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+41. azagador.png
+Genera una imagen hecha a mano y a lápiz de un azagador: vereda o camino por donde las ovejas van una tras otra, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+42. azud.png
+Genera una imagen hecha a mano y a lápiz de un azud: máquina en forma de rueda movida por la corriente de un río o barrera para desviar agua, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+43. bahia.png
+Genera una imagen hecha a mano y a lápiz de una bahía: entrada natural de mar en la costa de extensión considerable, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+44. bancal.png
+Genera una imagen hecha a mano y a lápiz de un bancal: rellano de tierra en terreno pendiente aprovechado para cultivo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+45. barranco.png
+Genera una imagen hecha a mano y a lápiz de un barranco: despeñadero o quiebra producida por corrientes de agua, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+46. batan.png
+Genera una imagen hecha a mano y a lápiz de un batán: máquina hidráulica con mazos para golpear paños, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+47. berma.png
+Genera una imagen hecha a mano y a lápiz de una berma: franja al borde del camino como zona de seguridad o drenaje, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+48. berrocal.png
+Genera una imagen hecha a mano y a lápiz de un berrocal: sitio lleno de peñascos graníticos redondeados, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+49. boca.png
+Genera una imagen hecha a mano y a lápiz de una boca: entrada o salida, abertura o agujero, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+50. boqueron.png
+Genera una imagen hecha a mano y a lápiz de un boquerón: abertura grande, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+51. borda.png
+Genera una imagen hecha a mano y a lápiz de una borda: cabaña del Pirineo para albergue de pastores y ganado, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+52. bosque.png
+Genera una imagen hecha a mano y a lápiz de un bosque: sitio poblado de árboles y matas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+53. brana.png
+Genera una imagen hecha a mano y a lápiz de una braña: pasto de verano en laderas de montaña con praderas y agua abundante, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+54. brena.png
+Genera una imagen hecha a mano y a lápiz de una breña: tierra quebrada entre peñas y poblada de maleza, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+55. bulevar.png
+Genera una imagen hecha a mano y a lápiz de un bulevar: calle generalmente ancha y con árboles, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+56. cabanero.png
+Genera una imagen hecha a mano y a lápiz de un cabañero: cañada en Aragón, vía pecuaria para el tránsito del ganado, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+57. cabo.png
+Genera una imagen hecha a mano y a lápiz de un cabo: lengua de tierra que penetra en el mar, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+58. cabrera.png
+Genera una imagen hecha a mano y a lápiz de una cabrera: paraje abrupto donde solo las cabras pueden andar, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+59. cacera.png
+Genera una imagen hecha a mano y a lápiz de una cacera: zanja o canal para conducir el agua de riego, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+60. cacumen.png
+Genera una imagen hecha a mano y a lápiz de un cacumen: altura o cumbre en los montes, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+61. cala.png
+Genera una imagen hecha a mano y a lápiz de una cala: ensenada pequeña, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+62. callao.png
+Genera una imagen hecha a mano y a lápiz de un callao: terreno llano y cubierto de cantos rodados, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+63. calle.png
+Genera una imagen hecha a mano y a lápiz de una calle: vía pública entre edificios o solares, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+64. calvero.png
+Genera una imagen hecha a mano y a lápiz de un calvero: paraje sin árboles en lo interior de un bosque, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+65. calzada.png
+Genera una imagen hecha a mano y a lápiz de una calzada: camino pavimentado y ancho, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+66. camino.png
+Genera una imagen hecha a mano y a lápiz de un camino: tierra hollada por donde se transita habitualmente, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+67. camino-asendereado.png
+Genera una imagen hecha a mano y a lápiz de un camino asendereado: camino común y frecuentado, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+68. camino-carros-carretero-carretil-o-de-ruedas.png
+Genera una imagen hecha a mano y a lápiz de un camino de carros: camino destinado al tránsito de carruajes, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+69. camino-de-cabras.png
+Genera una imagen hecha a mano y a lápiz de un camino de cabras: camino de montaña estrecho y muy accidentado, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+70. camino-de-herradura-o-de-caballos.png
+Genera una imagen hecha a mano y a lápiz de un camino de herradura: camino por donde solo pueden transitar caballerías, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+71. camino-de-sirga.png
+Genera una imagen hecha a mano y a lápiz de un camino de sirga: camino a orillas de ríos para llevar embarcaciones tirando desde tierra, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+72. campo.png
+Genera una imagen hecha a mano y a lápiz de un campo: terreno extenso fuera de poblado, tierra cultivada, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+73. campillo.png
+Genera una imagen hecha a mano y a lápiz de un campillo: campo común de un pueblo donde se reúnen los ganados, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+74. campina.png
+Genera una imagen hecha a mano y a lápiz de una campiña: espacio grande de tierra llana destinado al cultivo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+75. canal.png
+Genera una imagen hecha a mano y a lápiz de un canal: llanura larga y estrecha entre dos montañas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+76. canchal.png
+Genera una imagen hecha a mano y a lápiz de un canchal: peñascal formado por acumulación de bloques de roca angulosos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+77. cancho.png
+Genera una imagen hecha a mano y a lápiz de un cancho: peñasco más o menos abrupto de grandes dimensiones, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+78. candalo.png
+Genera una imagen hecha a mano y a lápiz de un cándalo: rama seca o tronco seco de pino, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+79. cantil.png
+Genera una imagen hecha a mano y a lápiz de un cantil: borde de un despeñadero, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+80. canto-rodado.png
+Genera una imagen hecha a mano y a lápiz de un canto rodado: fragmento de roca pulido y suelto, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+81. canada.png
+Genera una imagen hecha a mano y a lápiz de una cañada: vía cuya anchura es mayor a 90 varas (aproximadamente 75 m), tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+82. canon.png
+Genera una imagen hecha a mano y a lápiz de un cañón: valle con paredes verticales cuya profundidad es mayor que su anchura, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+83. carcava.png
+Genera una imagen hecha a mano y a lápiz de una cárcava: hoya o zanja grande hecha por las avenidas de agua, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+84. carrera.png
+Genera una imagen hecha a mano y a lápiz de una carrera: camino real o carretero, calle que fue antes camino, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+85. carretera.png
+Genera una imagen hecha a mano y a lápiz de una carretera: camino público pavimentado para el tránsito de vehículos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+86. carril.png
+Genera una imagen hecha a mano y a lápiz de un carril: camino donde solo puede pasar un carro, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+87. cascada.png
+Genera una imagen hecha a mano y a lápiz de una cascada: caída del agua de un río por brusco desnivel del cauce, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+88. cascajal.png
+Genera una imagen hecha a mano y a lápiz de un cascajal: terreno cubierto de cascajo y piedra menuda suelta, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+89. castrejon.png
+Genera una imagen hecha a mano y a lápiz de un castrejón: castro grande o lugar fortificado destacado, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+90. cava.png
+Genera una imagen hecha a mano y a lápiz de una cava: foso, cueva u hoyo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+91. caz.png
+Genera una imagen hecha a mano y a lápiz de un caz: canal para tomar el agua y conducirla donde es aprovechada, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+92. ceja.png
+Genera una imagen hecha a mano y a lápiz de una ceja: parte superior o cumbre del monte o sierra, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+93. cerro.png
+Genera una imagen hecha a mano y a lápiz de un cerro: elevación de tierra aislada menor que el monte, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+94. chimenea.png
+Genera una imagen hecha a mano y a lápiz de una chimenea: grieta larga y estrecha entre las rocas de un risco, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+95. chorrera.png
+Genera una imagen hecha a mano y a lápiz de una chorrera: trecho de río donde el agua corre con mucha velocidad, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+96. cienaga.png
+Genera una imagen hecha a mano y a lápiz de una ciénaga: lugar lleno de cieno o pantanoso, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+97. cima.png
+Genera una imagen hecha a mano y a lápiz de una cima: punto más alto de los montes y collados, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+98. cingla.png
+Genera una imagen hecha a mano y a lápiz de una cingla: elevación escalonada del terreno cortada bruscamente, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+99. cobertizo.png
+Genera una imagen hecha a mano y a lápiz de un cobertizo: sitio cubierto rústicamente para resguardo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+100. colada.png
+Genera una imagen hecha a mano y a lápiz de una colada: faja de terreno para tránsito de ganados, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+101. colina.png
+Genera una imagen hecha a mano y a lápiz de una colina: elevación natural de terreno menor que una montaña, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+102. collado.png
+Genera una imagen hecha a mano y a lápiz de un collado: depresión suave para pasar de un lado a otro de una sierra, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+103. conatillo.png
+Genera una imagen hecha a mano y a lápiz de un conatillo: terreno bajo donde se acumula el agua o la humedad, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+104. congosto.png
+Genera una imagen hecha a mano y a lápiz de un congosto: desfiladero entre montañas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+105. cordal.png
+Genera una imagen hecha a mano y a lápiz de un cordal: línea superior de una sucesión de montañas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+106. cordel.png
+Genera una imagen hecha a mano y a lápiz de un cordel: vía pastoril para ganados trashumantes de 45 varas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+107. cordillera.png
+Genera una imagen hecha a mano y a lápiz de una cordillera: serie de montañas enlazadas entre sí, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+108. corredera.png
+Genera una imagen hecha a mano y a lápiz de una corredera: paraje para el acoso de reses o para correr caballos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+109. cosio.png
+Genera una imagen hecha a mano y a lápiz de un cosío: corral, cercado o callejón cerrado, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+110. cresta.png
+Genera una imagen hecha a mano y a lápiz de una cresta: cumbre de agudos peñascos de una montaña, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+111. cubil.png
+Genera una imagen hecha a mano y a lápiz de un cubil: sitio donde los animales se recogen para dormir, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+112. cuerda.png
+Genera una imagen hecha a mano y a lápiz de una cuerda: línea superior de una sucesión de montañas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+113. cuesta.png
+Genera una imagen hecha a mano y a lápiz de una cuesta: terreno en pendiente, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+114. cueto.png
+Genera una imagen hecha a mano y a lápiz de un cueto: colina de forma cónica aislada y peñascosa, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+115. cuchillar.png
+Genera una imagen hecha a mano y a lápiz de un cuchillar: montaña con varias elevaciones escarpadas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+116. cuicuy.png
+Genera una imagen hecha a mano y a lápiz de un cuicuy: árbol derivado que sirve de puente, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+117. cumbre.png
+Genera una imagen hecha a mano y a lápiz de una cumbre: cima o parte superior de un monte, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+118. cuspide.png
+Genera una imagen hecha a mano y a lápiz de una cúspide: cumbre puntiaguda de los montes, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+119. declive.png
+Genera una imagen hecha a mano y a lápiz de un declive: pendiente o inclinación del terreno, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+120. degollada.png
+Genera una imagen hecha a mano y a lápiz de una degollada: collado o paso elevado entre montañas en Canarias, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+121. dehesa.png
+Genera una imagen hecha a mano y a lápiz de una dehesa: tierra acotada y arbolada destinada a pastos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+122. dehesa-boyal.png
+Genera una imagen hecha a mano y a lápiz de una dehesa boyal: dehesa comunal donde el vecindario apacienta sus ganados, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+123. derrocadero.png
+Genera una imagen hecha a mano y a lápiz de un derrocadero: sitio peñascoso con peligro de caer y precipitarse, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+124. derrota.png
+Genera una imagen hecha a mano y a lápiz de una derrota: camino, vereda o senda de tierra, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+125. derrotero.png
+Genera una imagen hecha a mano y a lápiz de un derrotero: camino o rumbo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+126. descaminar.png
+Genera una imagen hecha a mano y a lápiz de descaminar: sacar o apartar a alguien del camino, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+127. descansadero.png
+Genera una imagen hecha a mano y a lápiz de un descansadero: parte ensanchada de vía pecuaria para descanso del ganado, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+128. desfiladero.png
+Genera una imagen hecha a mano y a lápiz de un desfiladero: paso estrecho entre montañas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+129. despenadero.png
+Genera una imagen hecha a mano y a lápiz de un despeñadero: sitio elevado y peñascoso con peligro de precipitarse, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+130. dolina.png
+Genera una imagen hecha a mano y a lápiz de una dolina: depresión profunda de paredes inclinadas en terrenos calizos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+131. ejido.png
+Genera una imagen hecha a mano y a lápiz de un ejido: campo común de un pueblo donde se reúnen los ganados, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+132. embalse.png
+Genera una imagen hecha a mano y a lápiz de un embalse: gran depósito de agua formado artificialmente con un dique, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+133. encinar.png
+Genera una imagen hecha a mano y a lápiz de un encinar: sitio poblado de encinas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+134. encrucijada.png
+Genera una imagen hecha a mano y a lápiz de una encrucijada: lugar donde se cruzan dos o más calles o caminos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+135. enriscar.png
+Genera una imagen hecha a mano y a lápiz de enriscar: meterse entre riscos y peñascos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+136. ensenada.png
+Genera una imagen hecha a mano y a lápiz de una ensenada: parte de mar que entra en la tierra, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+137. era.png
+Genera una imagen hecha a mano y a lápiz de una era: espacio de tierra limpia donde se trillan las mieses, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+138. escarpe.png
+Genera una imagen hecha a mano y a lápiz de un escarpe: declive áspero del terreno, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+139. escollo.png
+Genera una imagen hecha a mano y a lápiz de un escollo: peñasco a flor de agua que no se descubre bien, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+140. escupidera.png
+Genera una imagen hecha a mano y a lápiz de la Escupidera: paso estrecho y muy inclinado cerca de una cima, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+141. estero.png
+Genera una imagen hecha a mano y a lápiz de un estero: faja de tierra a la orilla del mar por donde se extienden las mareas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+142. estuario.png
+Genera una imagen hecha a mano y a lápiz de un estuario: desembocadura de un río caudaloso en el mar con forma de embudo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+143. faja.png
+Genera una imagen hecha a mano y a lápiz de una faja: franja mucho más larga que ancha, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+144. fajana.png
+Genera una imagen hecha a mano y a lápiz de una fajana: terreno llano al pie de laderas formado por materiales desprendidos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+145. farallon.png
+Genera una imagen hecha a mano y a lápiz de un farallón: roca alta y tajada que sobresale en el mar, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+146. flecha.png
+Genera una imagen hecha a mano y a lápiz de una flecha: indicador de dirección en forma de flecha, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+147. flecha-litoral.png
+Genera una imagen hecha a mano y a lápiz de una flecha litoral: lengua alargada de arena que se proyecta hacia el mar, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+148. fragosidad.png
+Genera una imagen hecha a mano y a lápiz de una fragosidad: camino o terreno lleno de asperezas y breñas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+149. freo.png
+Genera una imagen hecha a mano y a lápiz de un freo: canal estrecho entre dos islas o entre isla y tierra firme, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+150. fresneda.png
+Genera una imagen hecha a mano y a lápiz de una fresneda: paraje cubierto de fresnos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+151. furna.png
+Genera una imagen hecha a mano y a lápiz de una furna: cavidad natural en terrenos volcánicos o costeros, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+152. galayo.png
+Genera una imagen hecha a mano y a lápiz de un galayo: prominencia aguda de roca pelada que se eleva en un monte, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+153. galiana.png
+Genera una imagen hecha a mano y a lápiz de una galiana: cañada, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+154. gandara.png
+Genera una imagen hecha a mano y a lápiz de una gándara: tierra baja, inculta y llena de maleza, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+155. geoda.png
+Genera una imagen hecha a mano y a lápiz de una geoda: hueco de una roca tapizado de sustancia cristalizada, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+156. garganta.png
+Genera una imagen hecha a mano y a lápiz de una garganta: estrechura de montes, ríos u otros parajes, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+157. garma.png
+Genera una imagen hecha a mano y a lápiz de una garma: maleza o espesura de arbustos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+158. glaciar.png
+Genera una imagen hecha a mano y a lápiz de un glaciar: masa de hielo que se desliza como un río de hielo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+159. glera.png
+Genera una imagen hecha a mano y a lápiz de una glera: arenal, cascajar o pedregal en Aragón, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+160. golfo.png
+Genera una imagen hecha a mano y a lápiz de un golfo: gran porción de mar que se interna en la tierra entre dos cabos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+161. gr.png
+Genera una imagen hecha a mano y a lápiz de un GR: senderos de gran recorrido marcados en blanco y rojo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+162. guija.png
+Genera una imagen hecha a mano y a lápiz de una guija: piedra lisa y pequeña de orillas de ríos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+163. guijarro.png
+Genera una imagen hecha a mano y a lápiz de un guijarro: pequeño canto rodado, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+164. hacho.png
+Genera una imagen hecha a mano y a lápiz de un hacho: lugar elevado de la costa donde se encendían antorchas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+165. haza.png
+Genera una imagen hecha a mano y a lápiz de una haza: porción de tierra labrantía o de sembradura, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+166. hayedo.png
+Genera una imagen hecha a mano y a lápiz de un hayedo: sitio poblado de hayas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+167. helero.png
+Genera una imagen hecha a mano y a lápiz de un helero: masa de hielo que se derrite en veranos muy calurosos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+168. herradura.png
+Genera una imagen hecha a mano y a lápiz de una herradura: meandro muy cerrado, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+169. herren.png
+Genera una imagen hecha a mano y a lápiz de un herrén: forraje de avena y cebada para el ganado, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+170. hito.png
+Genera una imagen hecha a mano y a lápiz de un hito: mojón o poste de piedra que indica dirección o límites, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+171. hollar.png
+Genera una imagen hecha a mano y a lápiz de hollar: pisar dejando señal de la pisada, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+172. hondonada.png
+Genera una imagen hecha a mano y a lápiz de una hondonada: terreno bajo y ancho al que se desciende en declive, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+173. hontanar.png
+Genera una imagen hecha a mano y a lápiz de un hontanar: sitio donde nacen fuentes o manantiales, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+174. horcajo.png
+Genera una imagen hecha a mano y a lápiz de un horcajo: confluencia de dos ríos o arroyos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+175. hoya.png
+Genera una imagen hecha a mano y a lápiz de una hoya: depresión amplia como un cuenco natural entre montañas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+176. hoyo.png
+Genera una imagen hecha a mano y a lápiz de un hoyo: concavidad que se forma en el campo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+177. hoz.png
+Genera una imagen hecha a mano y a lápiz de una hoz: angostura de un valle profundo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+178. hozadura.png
+Genera una imagen hecha a mano y a lápiz de una hozadura: hoyo que deja un animal por haber hozado, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+179. hueco.png
+Genera una imagen hecha a mano y a lápiz de un hueco: hundimiento, cavidad o depresión, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+180. humilladero.png
+Genera una imagen hecha a mano y a lápiz de un humilladero: lugar devoto a las entradas de pueblos con cruz o imagen, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+181. ibon.png
+Genera una imagen hecha a mano y a lápiz de un ibón: laguna en Pirineos a gran altura alimentada por nieve, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+182. integral.png
+Genera una imagen hecha a mano y a lápiz de una integral: travesía completa de toda una cuerda o cordillera, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+183. karst.png
+Genera una imagen hecha a mano y a lápiz de un karst: paisaje de relieve accidentado con grietas y crestas agudas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+184. jacilla.png
+Genera una imagen hecha a mano y a lápiz de una jacilla: señal o huella que deja algo en la tierra, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+185. jaral.png
+Genera una imagen hecha a mano y a lápiz de un jaral: sitio poblado de jaras, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+186. ladera.png
+Genera una imagen hecha a mano y a lápiz de una ladera: declive que hace un monte por alguno de sus costados, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+187. laja.png
+Genera una imagen hecha a mano y a lápiz de una laja: roca plana que se parte en láminas delgadas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+188. lancha.png
+Genera una imagen hecha a mano y a lápiz de una lancha: piedra grande, naturalmente lisa y plana, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+189. lavajo.png
+Genera una imagen hecha a mano y a lápiz de un lavajo: charca de agua llovediza que rara vez se seca, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+190. legua.png
+Genera una imagen hecha a mano y a lápiz de una legua: medida itineraria equivalente a 5572,7 metros, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+191. liego.png
+Genera una imagen hecha a mano y a lápiz de un terreno liego: terreno que no sirve para sembrar, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+192. llambria.png
+Genera una imagen hecha a mano y a lápiz de una llambria: plano muy inclinado de una peña difícil de pasar, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+193. loma.png
+Genera una imagen hecha a mano y a lápiz de una loma: altura pequeña y prolongada, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+194. lomba.png
+Genera una imagen hecha a mano y a lápiz de una lomba: loma o colina, parte de ladera entre dos barrancos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+195. longuera.png
+Genera una imagen hecha a mano y a lápiz de una longuera: porción de tierra larga y estrecha, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+196. luco.png
+Genera una imagen hecha a mano y a lápiz de un luco: bosque o selva de árboles cerrados y espesos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+197. macadan.png
+Genera una imagen hecha a mano y a lápiz de un macadán: pavimento de piedra machacada comprimida con rodillo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+198. madrevieja.png
+Genera una imagen hecha a mano y a lápiz de una madrevieja: cauce de río o arroyo seco, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+199. majada.png
+Genera una imagen hecha a mano y a lápiz de una majada: lugar donde se recoge el ganado de noche, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+200. majano.png
+Genera una imagen hecha a mano y a lápiz de un majano: montón de cantos sueltos en tierras de labor, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+201. malpais.png
+Genera una imagen hecha a mano y a lápiz de un malpaís: campo de lava reciente con superficie tortuosa y árida, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+202. marcha.png
+Genera una imagen hecha a mano y a lápiz de una marcha: modo de caminar o desplazamiento de personas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+203. marga.png
+Genera una imagen hecha a mano y a lápiz de una marga: roca de color gris compuesta de carbonato de calcio y arcilla, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+204. marjal.png
+Genera una imagen hecha a mano y a lápiz de un marjal: terreno bajo y pantanoso, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+205. macizo.png
+Genera una imagen hecha a mano y a lápiz de un macizo: prominencia rocosa o grupo de alturas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+206. milla.png
+Genera una imagen hecha a mano y a lápiz de una milla: medida itineraria romana equivalente a 1478,5 metros, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+207. moheda.png
+Genera una imagen hecha a mano y a lápiz de una moheda: monte alto con jarales y maleza, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+208. mojon.png
+Genera una imagen hecha a mano y a lápiz de un mojón: señal permanente para fijar linderos de heredades, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+209. mogote.png
+Genera una imagen hecha a mano y a lápiz de un mogote: montículo aislado de forma cónica rematado en punta roma, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+210. montana.png
+Genera una imagen hecha a mano y a lápiz de una montaña: gran elevación natural del terreno, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+211. monte.png
+Genera una imagen hecha a mano y a lápiz de un monte: tierra inculta cubierta de árboles y arbustos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+212. moral.png
+Genera una imagen hecha a mano y a lápiz de un moral: árbol tropical de madera incorruptible, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+213. morrena.png
+Genera una imagen hecha a mano y a lápiz de una morrena: montón de piedras y barro acumuladas por un glaciar, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+214. mota.png
+Genera una imagen hecha a mano y a lápiz de una mota: elevación de poca altura que se levanta sola en un llano, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+215. muga.png
+Genera una imagen hecha a mano y a lápiz de una muga: mojón, término o límite, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+216. nava.png
+Genera una imagen hecha a mano y a lápiz de una nava: tierra sin árboles y llana situada entre montañas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+217. ojo-de-agua.png
+Genera una imagen hecha a mano y a lápiz de un ojo de agua: manantial que surge en un llano, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+218. otero.png
+Genera una imagen hecha a mano y a lápiz de un otero: cerro aislado que domina un llano, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+219. pampa.png
+Genera una imagen hecha a mano y a lápiz de una pampa: llanura extensa de América del Sur sin vegetación arbórea, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+220. pantano.png
+Genera una imagen hecha a mano y a lápiz de un pantano: terreno hundido cenagoso donde las aguas se estancan, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+221. paradina.png
+Genera una imagen hecha a mano y a lápiz de una paradina: monte bajo de pasto con corrales para ganado lanar, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+222. paraje.png
+Genera una imagen hecha a mano y a lápiz de un paraje: lugar en el campo aislado y singular, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+223. paramo.png
+Genera una imagen hecha a mano y a lápiz de un páramo: terreno yermo, raso y desabrigado, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+224. pasadera.png
+Genera una imagen hecha a mano y a lápiz de una pasadera: piedras para atravesar un río a pie enjuto, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+225. pasarela.png
+Genera una imagen hecha a mano y a lápiz de una pasarela: paso o puente pequeño, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+226. paso-canadiense.png
+Genera una imagen hecha a mano y a lápiz de un paso canadiense: hueco cubierto por barras para obstaculizar ganado, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+227. paul.png
+Genera una imagen hecha a mano y a lápiz de un paúl: sitio pantanoso cubierto de hierbas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+228. pedregal.png
+Genera una imagen hecha a mano y a lápiz de un pedregal: sitio cubierto de piedras sueltas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+229. pena.png
+Genera una imagen hecha a mano y a lápiz de una peña: piedra grande sin labrar o montaña escarpada, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+230. penascal.png
+Genera una imagen hecha a mano y a lápiz de un peñascal: sitio cubierto de peñascos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+231. pertiga.png
+Genera una imagen hecha a mano y a lápiz de una pértiga: hito de señalización ganadera que marca límites, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+232. piedemonte.png
+Genera una imagen hecha a mano y a lápiz de un piedemonte: parte baja de un monte, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+233. pinar.png
+Genera una imagen hecha a mano y a lápiz de un pinar: sitio o lugar poblado de pinos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+234. pico.png
+Genera una imagen hecha a mano y a lápiz de un pico: remate o cúspide de montañas elevadas que termina en punta, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+235. piornal.png
+Genera una imagen hecha a mano y a lápiz de un piornal: sitio poblado de piornos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+236. pista.png
+Genera una imagen hecha a mano y a lápiz de una pista: camino por el monte para trabajos agroforestales, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+237. poris.png
+Genera una imagen hecha a mano y a lápiz de un porís: cueva marina natural en la costa, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+238. portachuelo.png
+Genera una imagen hecha a mano y a lápiz de un portachuelo: boquete abierto en la convergencia de dos montes, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+239. portilla.png
+Genera una imagen hecha a mano y a lápiz de una portilla: abertura pequeña para dar claridad y ventilación, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+240. portillo.png
+Genera una imagen hecha a mano y a lápiz de un portillo: camino angosto entre dos alturas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+241. posta.png
+Genera una imagen hecha a mano y a lápiz de una posta: conjunto de caballerías apostadas en los caminos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+242. pr.png
+Genera una imagen hecha a mano y a lápiz de un PR: senderos de pequeño recorrido marcados en blanco y amarillo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+243. presa.png
+Genera una imagen hecha a mano y a lápiz de una presa: muro para almacenar o desviar agua de un río, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+244. puerto.png
+Genera una imagen hecha a mano y a lápiz de un puerto: paso por donde se atraviesan las cumbres de las sierras, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+245. punta.png
+Genera una imagen hecha a mano y a lápiz de una punta: lengua de tierra baja que penetra en el mar, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+246. quebrada.png
+Genera una imagen hecha a mano y a lápiz de una quebrada: paso estrecho entre montañas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+247. rambla.png
+Genera una imagen hecha a mano y a lápiz de una rambla: lecho natural de aguas pluviales copiosas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+248. rana.png
+Genera una imagen hecha a mano y a lápiz de una raña: acumulación aluvial depositada sobre llanura de poca pendiente, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+249. rastrojo.png
+Genera una imagen hecha a mano y a lápiz de un rastrojo: terreno de labor que se deja sin labrar, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+250. raya.png
+Genera una imagen hecha a mano y a lápiz de una raya: lindero de un predio de mucha extensión, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+251. regajo.png
+Genera una imagen hecha a mano y a lápiz de un regajo: charco que se forma de un arroyuelo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+252. regato.png
+Genera una imagen hecha a mano y a lápiz de un regato: arroyo pequeño o remanso poco profundo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+253. retamar.png
+Genera una imagen hecha a mano y a lápiz de un retamar: sitio poblado de retamas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+254. ribazo.png
+Genera una imagen hecha a mano y a lápiz de un ribazo: porción de tierra elevada con declive entre parcelas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+255. risco.png
+Genera una imagen hecha a mano y a lápiz de un risco: peñasco alto y escarpado difícil y peligroso, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+256. robledal.png
+Genera una imagen hecha a mano y a lápiz de un robledal: robledo de gran extensión, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+257. robledo.png
+Genera una imagen hecha a mano y a lápiz de un robledo: sitio poblado de robles, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+258. roca.png
+Genera una imagen hecha a mano y a lápiz de una roca: peñasco que se levanta en la tierra o en el mar, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+259. rodera.png
+Genera una imagen hecha a mano y a lápiz de una rodera: camino abierto por el paso de los carros, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+260. ronda.png
+Genera una imagen hecha a mano y a lápiz de una ronda: camino contiguo a una muralla, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+261. roquedal.png
+Genera una imagen hecha a mano y a lápiz de un roquedal: lugar abundante en rocas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+262. roquedo.png
+Genera una imagen hecha a mano y a lápiz de un roquedo: peñasco o roca, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+263. rua.png
+Genera una imagen hecha a mano y a lápiz de una rúa: calle de un pueblo o camino carretero, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+264. ruderal.png
+Genera una imagen hecha a mano y a lápiz de un terreno ruderal: terreno inculto donde se vierten escombros, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+265. ruta.png
+Genera una imagen hecha a mano y a lápiz de una ruta: camino o dirección que se toma para un propósito, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+266. salobral.png
+Genera una imagen hecha a mano y a lápiz de un salobral: terreno salobreño, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+267. selva.png
+Genera una imagen hecha a mano y a lápiz de una selva: terreno extenso inculto y muy poblado de árboles, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+268. senda.png
+Genera una imagen hecha a mano y a lápiz de una senda: camino estrecho abierto por el tránsito de peatones y ganado, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+269. seroja.png
+Genera una imagen hecha a mano y a lápiz de una seroja: hojarasca seca que cae de los árboles, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+270. sierra.png
+Genera una imagen hecha a mano y a lápiz de una sierra: cordillera de montes o peñascos cortados, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+271. sima.png
+Genera una imagen hecha a mano y a lápiz de una sima: cavidad grande y muy profunda en la tierra, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+272. sinclinal.png
+Genera una imagen hecha a mano y a lápiz de un sinclinal: pliegue de terreno con materiales más recientes en su núcleo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+273. solana.png
+Genera una imagen hecha a mano y a lápiz de una solana: zona iluminada y calentada por el Sol, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+274. somo.png
+Genera una imagen hecha a mano y a lápiz de un somo: cima de monte o paso elevado de una cordillera, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+275. soto.png
+Genera una imagen hecha a mano y a lápiz de un soto: sitio en riberas poblado de árboles y arbustos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+276. sl.png
+Genera una imagen hecha a mano y a lápiz de un SL: senderos locales marcados en blanco y verde, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+277. tabla.png
+Genera una imagen hecha a mano y a lápiz de una tabla: faja de tierra labrantía entre dos filas de árboles, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+278. tajea.png
+Genera una imagen hecha a mano y a lápiz de una tajea: puente pequeño para que pasen las aguas por debajo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+279. talud.png
+Genera una imagen hecha a mano y a lápiz de un talud: inclinación del terreno a los lados de un camino, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+280. tenada.png
+Genera una imagen hecha a mano y a lápiz de una tenada: tinada o cobertizo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+281. terrero.png
+Genera una imagen hecha a mano y a lápiz de un terrero: montón de tierra depositado por las aguas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+282. teso.png
+Genera una imagen hecha a mano y a lápiz de un teso: colina baja con extensión llana en la cima, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+283. tinada.png
+Genera una imagen hecha a mano y a lápiz de una tinada: cobertizo para ganados, especialmente bueyes, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+284. tolla.png
+Genera una imagen hecha a mano y a lápiz de una tolla: terreno húmedo que se mueve al pisarlo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+285. tolmo.png
+Genera una imagen hecha a mano y a lápiz de un tolmo: peñasco elevado semejante a un gran hito o mojón, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+286. torca.png
+Genera una imagen hecha a mano y a lápiz de una torca: depresión circular con bordes escarpados en un terreno, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+287. torcal.png
+Genera una imagen hecha a mano y a lápiz de un torcal: terreno donde hay torcas, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+288. tomillar.png
+Genera una imagen hecha a mano y a lápiz de un tomillar: sitio poblado de tomillos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+289. tormo.png
+Genera una imagen hecha a mano y a lápiz de un tormo: masa de roca aislada que sobresale del terreno, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+290. torno.png
+Genera una imagen hecha a mano y a lápiz de un torno: recodo que forma el cauce de un río, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+291. tozal.png
+Genera una imagen hecha a mano y a lápiz de un tozal: teso, colina baja con extensión llana en la cima, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+292. trampal.png
+Genera una imagen hecha a mano y a lápiz de un trampal: pantano, atolladero o zona encharcada con barro, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+293. travesia.png
+Genera una imagen hecha a mano y a lápiz de una travesía: camino transversal entre otros dos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+294. tremedal.png
+Genera una imagen hecha a mano y a lápiz de un tremedal: terreno pantanoso abundante en turba que retiembla al andar, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+295. trocha.png
+Genera una imagen hecha a mano y a lápiz de una trocha: vereda angosta que sirve de atajo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+296. tuca.png
+Genera una imagen hecha a mano y a lápiz de una tuca: pico agudo que sobresale en Aragón, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+297. turmal.png
+Genera una imagen hecha a mano y a lápiz de un turmal: terreno pantanoso o encharcado rico en materia orgánica, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+298. umbria.png
+Genera una imagen hecha a mano y a lápiz de una umbría: vertiente menos iluminada por el Sol, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+299. vadear.png
+Genera una imagen hecha a mano y a lápiz de vadear: pasar un río por el vado haciendo pie, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+300. vado.png
+Genera una imagen hecha a mano y a lápiz de un vado: lugar de un río con fondo firme y poco profundo para pasar, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+301. vaguada.png
+Genera una imagen hecha a mano y a lápiz de una vaguada: línea que marca la parte más honda de un valle, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+302. valle.png
+Genera una imagen hecha a mano y a lápiz de un valle: llanura entre montes o cuenca de un río, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+303. venero.png
+Genera una imagen hecha a mano y a lápiz de un venero: manantial de agua, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+304. ventisquero.png
+Genera una imagen hecha a mano y a lápiz de un ventisquero: sitio en las alturas donde se conserva la nieve y el hielo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+305. vereda.png
+Genera una imagen hecha a mano y a lápiz de una vereda: camino angosto formado por el tránsito de peatones y ganados, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+306. vericueto.png
+Genera una imagen hecha a mano y a lápiz de un vericueto: sitios ásperos, quebrados y solitarios, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+307. veril.png
+Genera una imagen hecha a mano y a lápiz de un veril: faja estrecha de terreno junto a un camino, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+308. viaducto.png
+Genera una imagen hecha a mano y a lápiz de un viaducto: obra a manera de puente para pasar sobre una hondonada, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+309. via.png
+Genera una imagen hecha a mano y a lápiz de una vía: camino, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+310. via-pecuaria.png
+Genera una imagen hecha a mano y a lápiz de una vía pecuaria: camino de dominio público para circulación de ganados, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+311. viso.png
+Genera una imagen hecha a mano y a lápiz de un viso: altura desde donde se descubre mucho terreno, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+312. vivac.png
+Genera una imagen hecha a mano y a lápiz de un vivac: pasar la noche a la intemperie sin tienda, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+313. yermo.png
+Genera una imagen hecha a mano y a lápiz de un yermo: terreno deshabitado y sin cultivo, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+314. zahorra.png
+Genera una imagen hecha a mano y a lápiz de una zahorra: piedra menuda triturada para pavimentos, tiene que ser sutil y elegante, como si fuese una ilustración de un libro de biología sin texto
+
+=================================================================
+
+TOTAL: 314 términos
+YA GENERADA: 1 (abrevadero)
+POR GENERAR: 313
+
+Nota: Los nombres de archivo no deben tener acentos ni caracteres especiales.
+Ejemplos:
+- "Álveo" → alveo.png
+- "Cúspide" → cuspide.png
+- "Cañada" → canada.png
+- "GR" → gr.png

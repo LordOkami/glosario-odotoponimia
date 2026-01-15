@@ -1,0 +1,93 @@
+╔════════════════════════════════════════════════════════════╗
+║        BATCH 7/7 - ChatGPT Plus con DALL-E 3            ║
+║           Imágenes 241-276 (36 imágenes)                  ║
+╚════════════════════════════════════════════════════════════╝
+
+INSTRUCCIONES:
+1. Copia TODO el prompt de abajo
+2. Pégalo en ChatGPT Plus (https://chat.openai.com)
+3. Espera a que genere las 36 imágenes
+4. Descarga todas (click derecho → Guardar imagen)
+5. Muévelas a la carpeta del proyecto
+6. Ejecuta: node organize-dalle3-images.js
+
+════════════════════════════════════════════════════════════
+
+Genera 36 imágenes con estilo de ilustración hecha a mano a lápiz, sutiles y elegantes, como ilustraciones de un libro de biología antiguo, sin texto alguno. Cada ilustración debe ser minimalista y científica:
+
+1. TALUD: inclinación del terreno a los lados de un camino
+2. TENADA: tinada o cobertizo
+3. TERRERO: montón de tierra depositado por las aguas
+4. TESO: colina baja con extensión llana en la cima
+5. TINADA: cobertizo para ganados, especialmente bueyes
+6. TOLLA: terreno húmedo que se mueve al pisarlo
+7. TOLMO: peñasco elevado semejante a un gran hito o mojón
+8. TORCA: depresión circular con bordes escarpados en un terreno
+9. TORCAL: terreno donde hay torcas
+10. TOMILLAR: sitio poblado de tomillos
+11. TORMO: masa de roca aislada que sobresale del terreno
+12. TORNO: recodo que forma el cauce de un río
+13. TOZAL: teso, colina baja con extensión llana en la cima
+14. TRAMPAL: pantano, atolladero o zona encharcada con barro
+15. TRAVESÍA: camino transversal entre otros dos
+16. TREMEDAL: terreno pantanoso abundante en turba que retiembla al andar
+17. TROCHA: vereda angosta que sirve de atajo
+18. TUCA: pico agudo que sobresale en Aragón
+19. TURMAL: terreno pantanoso o encharcado rico en materia orgánica
+20. UMBRÍA: vertiente menos iluminada por el Sol
+21. : pasar un río por el vado haciendo pie
+22. VADO: lugar de un río con fondo firme y poco profundo para pasar
+23. VAGUADA: línea que marca la parte más honda de un valle
+24. VALLE: llanura entre montes o cuenca de un río
+25. VENERO: manantial de agua
+26. VENTISQUERO: sitio en las alturas donde se conserva la nieve y el hielo
+27. VEREDA: camino angosto formado por el tránsito de peatones y ganados
+28. VERICUETO: sitios ásperos, quebrados y solitarios
+29. VERIL: faja estrecha de terreno junto a un camino
+30. VIADUCTO: obra a manera de puente para pasar sobre una hondonada
+31. VÍA: camino
+32. VÍA PECUARIA: camino de dominio público para circulación de ganados
+33. VISO: altura desde donde se descubre mucho terreno
+34. VIVAC: pasar la noche a la intemperie sin tienda
+35. YERMO: terreno deshabitado y sin cultivo
+36. ZAHORRA: piedra menuda triturada para pavimentos
+
+════════════════════════════════════════════════════════════
+
+LISTA DE TÉRMINOS (para referencia):
+1. talud → talud.png
+2. tenada → tenada.png
+3. terrero → terrero.png
+4. teso → teso.png
+5. tinada → tinada.png
+6. tolla → tolla.png
+7. tolmo → tolmo.png
+8. torca → torca.png
+9. torcal → torcal.png
+10. tomillar → tomillar.png
+11. tormo → tormo.png
+12. torno → torno.png
+13. tozal → tozal.png
+14. trampal → trampal.png
+15. travesía → travesia.png
+16. tremedal → tremedal.png
+17. trocha → trocha.png
+18. tuca → tuca.png
+19. turmal → turmal.png
+20. umbría → umbria.png
+21.  → vadear.png
+22. vado → vado.png
+23. vaguada → vaguada.png
+24. valle → valle.png
+25. venero → venero.png
+26. ventisquero → ventisquero.png
+27. vereda → vereda.png
+28. vericueto → vericueto.png
+29. veril → veril.png
+30. viaducto → viaducto.png
+31. vía → via.png
+32. vía pecuaria → via-pecuaria.png
+33. viso → viso.png
+34. vivac → vivac.png
+35. yermo → yermo.png
+36. zahorra → zahorra.png

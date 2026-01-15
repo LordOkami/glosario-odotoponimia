@@ -1,0 +1,101 @@
+╔════════════════════════════════════════════════════════════╗
+║        BATCH 6/7 - ChatGPT Plus con DALL-E 3            ║
+║           Imágenes 201-240 (40 imágenes)                  ║
+╚════════════════════════════════════════════════════════════╝
+
+INSTRUCCIONES:
+1. Copia TODO el prompt de abajo
+2. Pégalo en ChatGPT Plus (https://chat.openai.com)
+3. Espera a que genere las 40 imágenes
+4. Descarga todas (click derecho → Guardar imagen)
+5. Muévelas a la carpeta del proyecto
+6. Ejecuta: node organize-dalle3-images.js
+
+════════════════════════════════════════════════════════════
+
+Genera 40 imágenes con estilo de ilustración hecha a mano a lápiz, sutiles y elegantes, como ilustraciones de un libro de biología antiguo, sin texto alguno. Cada ilustración debe ser minimalista y científica:
+
+1. PORTILLA: abertura pequeña para dar claridad y ventilación
+2. PORTILLO: camino angosto entre dos alturas
+3. POSTA: conjunto de caballerías apostadas en los caminos
+4. PR: senderos de pequeño recorrido marcados en blanco y amarillo
+5. PRESA: muro para almacenar o desviar agua de un río
+6. PUERTO: paso por donde se atraviesan las cumbres de las sierras
+7. PUNTA: lengua de tierra baja que penetra en el mar
+8. QUEBRADA: paso estrecho entre montañas
+9. RAMBLA: lecho natural de aguas pluviales copiosas
+10. RAÑA: acumulación aluvial depositada sobre llanura de poca pendiente
+11. RASTROJO: terreno de labor que se deja sin labrar
+12. RAYA: lindero de un predio de mucha extensión
+13. REGAJO: charco que se forma de un arroyuelo
+14. REGATO: arroyo pequeño o remanso poco profundo
+15. RETAMAR: sitio poblado de retamas
+16. RIBAZO: porción de tierra elevada con declive entre parcelas
+17. RISCO: peñasco alto y escarpado difícil y peligroso
+18. ROBLEDAL: robledo de gran extensión
+19. ROBLEDO: sitio poblado de robles
+20. ROCA: peñasco que se levanta en la tierra o en el mar
+21. RODERA: camino abierto por el paso de los carros
+22. RONDA: camino contiguo a una muralla
+23. ROQUEDAL: lugar abundante en rocas
+24. ROQUEDO: peñasco o roca
+25. RÚA: calle de un pueblo o camino carretero
+26. TERRENO RUDERAL: terreno inculto donde se vierten escombros
+27. RUTA: camino o dirección que se toma para un propósito
+28. SALOBRAL: terreno salobreño
+29. SELVA: terreno extenso inculto y muy poblado de árboles
+30. SENDA: camino estrecho abierto por el tránsito de peatones y ganado
+31. SEROJA: hojarasca seca que cae de los árboles
+32. SIERRA: cordillera de montes o peñascos cortados
+33. SIMA: cavidad grande y muy profunda en la tierra
+34. SINCLINAL: pliegue de terreno con materiales más recientes en su núcleo
+35. SOLANA: zona iluminada y calentada por el Sol
+36. SOMO: cima de monte o paso elevado de una cordillera
+37. SOTO: sitio en riberas poblado de árboles y arbustos
+38. SL: senderos locales marcados en blanco y verde
+39. TABLA: faja de tierra labrantía entre dos filas de árboles
+40. TAJEA: puente pequeño para que pasen las aguas por debajo
+
+════════════════════════════════════════════════════════════
+
+LISTA DE TÉRMINOS (para referencia):
+1. portilla → portilla.png
+2. portillo → portillo.png
+3. posta → posta.png
+4. PR → pr.png
+5. presa → presa.png
+6. puerto → puerto.png
+7. punta → punta.png
+8. quebrada → quebrada.png
+9. rambla → rambla.png
+10. raña → rana.png
+11. rastrojo → rastrojo.png
+12. raya → raya.png
+13. regajo → regajo.png
+14. regato → regato.png
+15. retamar → retamar.png
+16. ribazo → ribazo.png
+17. risco → risco.png
+18. robledal → robledal.png
+19. robledo → robledo.png
+20. roca → roca.png
+21. rodera → rodera.png
+22. ronda → ronda.png
+23. roquedal → roquedal.png
+24. roquedo → roquedo.png
+25. rúa → rua.png
+26. terreno ruderal → ruderal.png
+27. ruta → ruta.png
+28. salobral → salobral.png
+29. selva → selva.png
+30. senda → senda.png
+31. seroja → seroja.png
+32. sierra → sierra.png
+33. sima → sima.png
+34. sinclinal → sinclinal.png
+35. solana → solana.png
+36. somo → somo.png
+37. soto → soto.png
+38. SL → sl.png
+39. tabla → tabla.png
+40. tajea → tajea.png

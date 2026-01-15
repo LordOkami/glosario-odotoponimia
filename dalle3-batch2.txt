@@ -1,0 +1,101 @@
+╔════════════════════════════════════════════════════════════╗
+║        BATCH 2/7 - ChatGPT Plus con DALL-E 3            ║
+║           Imágenes 41-80 (40 imágenes)                  ║
+╚════════════════════════════════════════════════════════════╝
+
+INSTRUCCIONES:
+1. Copia TODO el prompt de abajo
+2. Pégalo en ChatGPT Plus (https://chat.openai.com)
+3. Espera a que genere las 40 imágenes
+4. Descarga todas (click derecho → Guardar imagen)
+5. Muévelas a la carpeta del proyecto
+6. Ejecuta: node organize-dalle3-images.js
+
+════════════════════════════════════════════════════════════
+
+Genera 40 imágenes con estilo de ilustración hecha a mano a lápiz, sutiles y elegantes, como ilustraciones de un libro de biología antiguo, sin texto alguno. Cada ilustración debe ser minimalista y científica:
+
+1. CANTIL: borde de un despeñadero
+2. CANTO RODADO: fragmento de roca pulido y suelto
+3. CAÑADA: vía cuya anchura es mayor a 90 varas (aproximadamente 75 m)
+4. CAÑÓN: valle con paredes verticales cuya profundidad es mayor que su anchura
+5. CÁRCAVA: hoya o zanja grande hecha por las avenidas de agua
+6. CARRERA: camino real o carretero, calle que fue antes camino
+7. CARRETERA: camino público pavimentado para el tránsito de vehículos
+8. CARRIL: camino donde solo puede pasar un carro
+9. CASCADA: caída del agua de un río por brusco desnivel del cauce
+10. CASCAJAL: terreno cubierto de cascajo y piedra menuda suelta
+11. CASTREJÓN: castro grande o lugar fortificado destacado
+12. CAVA: foso, cueva u hoyo
+13. CAZ: canal para tomar el agua y conducirla donde es aprovechada
+14. CEJA: parte superior o cumbre del monte o sierra
+15. CERRO: elevación de tierra aislada menor que el monte
+16. CHIMENEA: grieta larga y estrecha entre las rocas de un risco
+17. CHORRERA: trecho de río donde el agua corre con mucha velocidad
+18. CIÉNAGA: lugar lleno de cieno o pantanoso
+19. CIMA: punto más alto de los montes y collados
+20. CINGLA: elevación escalonada del terreno cortada bruscamente
+21. COBERTIZO: sitio cubierto rústicamente para resguardo
+22. COLADA: faja de terreno para tránsito de ganados
+23. COLINA: elevación natural de terreno menor que una montaña
+24. COLLADO: depresión suave para pasar de un lado a otro de una sierra
+25. CONATILLO: terreno bajo donde se acumula el agua o la humedad
+26. CONGOSTO: desfiladero entre montañas
+27. CORDAL: línea superior de una sucesión de montañas
+28. CORDEL: vía pastoril para ganados trashumantes de 45 varas
+29. CORDILLERA: serie de montañas enlazadas entre sí
+30. CORREDERA: paraje para el acoso de reses o para correr caballos
+31. COSÍO: corral, cercado o callejón cerrado
+32. CRESTA: cumbre de agudos peñascos de una montaña
+33. CUBIL: sitio donde los animales se recogen para dormir
+34. CUERDA: línea superior de una sucesión de montañas
+35. CUESTA: terreno en pendiente
+36. CUETO: colina de forma cónica aislada y peñascosa
+37. CUCHILLAR: montaña con varias elevaciones escarpadas
+38. CUICUY: árbol derivado que sirve de puente
+39. CUMBRE: cima o parte superior de un monte
+40. CÚSPIDE: cumbre puntiaguda de los montes
+
+════════════════════════════════════════════════════════════
+
+LISTA DE TÉRMINOS (para referencia):
+1. cantil → cantil.png
+2. canto rodado → canto-rodado.png
+3. cañada → canada.png
+4. cañón → canon.png
+5. cárcava → carcava.png
+6. carrera → carrera.png
+7. carretera → carretera.png
+8. carril → carril.png
+9. cascada → cascada.png
+10. cascajal → cascajal.png
+11. castrejón → castrejon.png
+12. cava → cava.png
+13. caz → caz.png
+14. ceja → ceja.png
+15. cerro → cerro.png
+16. chimenea → chimenea.png
+17. chorrera → chorrera.png
+18. ciénaga → cienaga.png
+19. cima → cima.png
+20. cingla → cingla.png
+21. cobertizo → cobertizo.png
+22. colada → colada.png
+23. colina → colina.png
+24. collado → collado.png
+25. conatillo → conatillo.png
+26. congosto → congosto.png
+27. cordal → cordal.png
+28. cordel → cordel.png
+29. cordillera → cordillera.png
+30. corredera → corredera.png
+31. cosío → cosio.png
+32. cresta → cresta.png
+33. cubil → cubil.png
+34. cuerda → cuerda.png
+35. cuesta → cuesta.png
+36. cueto → cueto.png
+37. cuchillar → cuchillar.png
+38. cuicuy → cuicuy.png
+39. cumbre → cumbre.png
+40. cúspide → cuspide.png
