@@ -127,7 +127,7 @@ body {
 }
 
 .header-logo {
-    height: 4rem;
+    height: 6rem;
     width: auto;
     object-fit: contain;
     filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2));
@@ -149,7 +149,7 @@ body {
     }
 
     .header-logo {
-        height: 5rem;
+        height: 7.5rem;
     }
 
     .header-subtitle {
