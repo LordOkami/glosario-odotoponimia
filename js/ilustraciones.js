@@ -423,8 +423,34 @@ function obtenerIlustracion(termino) {
     const categoria = obtenerCategoriaIlustracion(termino);
     const svgFallback = ilustracionesSVG[categoria] || ilustracionesSVG.especial;
 
+    // Crear elemento con fallback a SVG si la imagen PNG no existe
+    const fallbackId = `svg-${nombreArchivo}`;
+
+    // Guardar el SVG fallback en un elemento oculto para usarlo después
+    if (!window.ilustracionesSVGFallback) {
+        window.ilustracionesSVGFallback = {};
+    }
+    window.ilustracionesSVGFallback[fallbackId] = svgFallback;
+
     // Intentar usar imagen PNG primero, con fallback a SVG
-    return `<img src="${rutaImagen}" alt="${termino}" onerror="this.onerror=null; this.style.display='none'; this.parentElement.innerHTML='${svgFallback.replace(/'/g, "\\'")}'" loading="lazy">`;
+    return `<img src="${rutaImagen}" alt="${termino}" data-fallback="${fallbackId}" onerror="handleImageError(this)" loading="lazy">`;
+}
+
+/**
+ * Maneja el error cuando una imagen no se encuentra
+ */
+function handleImageError(img) {
+    const fallbackId = img.getAttribute('data-fallback');
+    if (fallbackId && window.ilustracionesSVGFallback && window.ilustracionesSVGFallback[fallbackId]) {
+        img.onerror = null; // Prevenir loop infinito
+        img.style.display = 'none';
+        img.parentElement.innerHTML = window.ilustracionesSVGFallback[fallbackId];
+    }
+}
+
+// Hacer handleImageError disponible globalmente
+if (typeof window !== 'undefined') {
+    window.handleImageError = handleImageError;
 }
 
 // Exportar para uso en otros módulos
@@ -433,6 +459,7 @@ if (typeof module !== 'undefined' && module.exports) {
         categoriasIlustracion,
         ilustracionesSVG,
         obtenerCategoriaIlustracion,
-        obtenerIlustracion
+        obtenerIlustracion,
+        handleImageError
     };
 }
