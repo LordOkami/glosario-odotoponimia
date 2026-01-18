@@ -479,13 +479,13 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    opacity: 0.15;
+    opacity: 0.3;
     transition: opacity var(--transition-base), transform var(--transition-base);
     z-index: 0;
 }
 
 .term-card:hover .term-bg-image {
-    opacity: 0.25;
+    opacity: 0.4;
     transform: scale(1.05);
 }
 

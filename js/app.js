@@ -194,14 +194,22 @@ function configurarScrollHeader() {
     const header = document.querySelector('.header');
     let lastScrollY = window.scrollY;
     let ticking = false;
+    let isScrolled = false;
 
     function actualizarHeader() {
         const scrollY = window.scrollY;
 
-        if (scrollY > 50) {
+        // Hysteresis para evitar parpadeo: usar diferentes thresholds
+        // para añadir y quitar la clase 'scrolled'
+        const addThreshold = 50;
+        const removeThreshold = 30;
+
+        if (!isScrolled && scrollY > addThreshold) {
             header.classList.add('scrolled');
-        } else {
+            isScrolled = true;
+        } else if (isScrolled && scrollY < removeThreshold) {
             header.classList.remove('scrolled');
+            isScrolled = false;
         }
 
         lastScrollY = scrollY;
