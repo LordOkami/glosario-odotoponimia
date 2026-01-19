@@ -589,7 +589,7 @@ body {
     max-width: 100%;
     height: 300px;
     margin: 0 auto var(--spacing-lg);
-    opacity: 0.3;
+    opacity: 0.8;
     color: var(--color-primary);
     display: flex;
     align-items: center;
@@ -898,8 +898,13 @@ body {
 
 /* Focus visible for keyboard navigation */
 button:focus-visible,
-input:focus-visible,
 .term-card:focus-visible {
     outline: 3px solid var(--color-primary);
     outline-offset: 2px;
+}
+
+/* Remove outline from search input as it's handled by .search-box:focus-within */
+.search-input:focus,
+.search-input:focus-visible {
+    outline: none;
 }
