@@ -8,9 +8,15 @@
   publish = "."
 
 # Redirects and rewrites
+# Excluir rutas de Netlify Identity y admin
 [[redirects]]
-  from = "/*"
-  to = "/index.html"
+  from = "/.netlify/*"
+  to = "/.netlify/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/admin/*"
+  to = "/admin/:splat"
   status = 200
 
 # Headers for security and performance
