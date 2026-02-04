@@ -7,17 +7,7 @@
   # Publish directory
   publish = "."
 
-# Redirects and rewrites
-# Excluir rutas de Netlify Identity y admin
-[[redirects]]
-  from = "/.netlify/*"
-  to = "/.netlify/:splat"
-  status = 200
-
-[[redirects]]
-  from = "/admin/*"
-  to = "/admin/:splat"
-  status = 200
+# No redirects needed - using _redirects file instead
 
 # Headers for security and performance
 [[headers]]
