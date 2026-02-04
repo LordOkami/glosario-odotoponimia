@@ -1,0 +1,88 @@
+backend:
+  name: git-gateway
+  branch: main
+
+# Configuración local para desarrollo
+local_backend: true
+
+# Configuración de medios
+media_folder: "assets/img"
+public_folder: "assets/img"
+
+# Configuración de idioma
+locale: 'es'
+
+# Colecciones
+collections:
+  # Colección para el glosario
+  - name: "glosario"
+    label: "Glosario"
+    files:
+      - name: "terminos"
+        label: "Términos del Glosario"
+        file: "data/glosario.json"
+        fields:
+          - label: "Introducción"
+            name: "introduccion"
+            widget: "text"
+            hint: "Texto introductorio del glosario"
+
+          - label: "Términos"
+            name: "terminos"
+            widget: "list"
+            summary: "{{fields.termino}} - {{fields.letra}}"
+            fields:
+              - label: "ID"
+                name: "id"
+                widget: "string"
+                hint: "Identificador único (en minúsculas, sin acentos, con guiones en lugar de espacios)"
+
+              - label: "Término"
+                name: "termino"
+                widget: "string"
+                hint: "Nombre del término"
+
+              - label: "Definición"
+                name: "definicion"
+                widget: "text"
+                hint: "Definición del término"
+
+              - label: "Letra"
+                name: "letra"
+                widget: "select"
+                options:
+                  - { label: "A", value: "A" }
+                  - { label: "B", value: "B" }
+                  - { label: "C", value: "C" }
+                  - { label: "D", value: "D" }
+                  - { label: "E", value: "E" }
+                  - { label: "F", value: "F" }
+                  - { label: "G", value: "G" }
+                  - { label: "H", value: "H" }
+                  - { label: "I", value: "I" }
+                  - { label: "J", value: "J" }
+                  - { label: "K", value: "K" }
+                  - { label: "L", value: "L" }
+                  - { label: "M", value: "M" }
+                  - { label: "N", value: "N" }
+                  - { label: "O", value: "O" }
+                  - { label: "P", value: "P" }
+                  - { label: "Q", value: "Q" }
+                  - { label: "R", value: "R" }
+                  - { label: "S", value: "S" }
+                  - { label: "T", value: "T" }
+                  - { label: "U", value: "U" }
+                  - { label: "V", value: "V" }
+                  - { label: "W", value: "W" }
+                  - { label: "X", value: "X" }
+                  - { label: "Y", value: "Y" }
+                  - { label: "Z", value: "Z" }
+                hint: "Primera letra del término (para organización alfabética)"
+
+              - label: "Imagen"
+                name: "imagen"
+                widget: "image"
+                required: false
+                hint: "Imagen ilustrativa del término (opcional)"
+                media_folder: "/assets/img"
+                public_folder: "assets/img"
