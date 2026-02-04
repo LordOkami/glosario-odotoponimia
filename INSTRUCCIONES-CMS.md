@@ -1,98 +1,107 @@
-# Instrucciones para configurar Netlify CMS
+# Instrucciones para usar Netlify CMS con GitHub OAuth
 
-¡Todo está listo! Ahora necesitas configurar Netlify Identity para poder acceder al CMS.
+¡El CMS está configurado con GitHub OAuth! Es 100% gratuito y estable.
 
-## Pasos para configurar Netlify CMS:
+## ✅ Requisitos:
 
-### 1. Habilitar Git Gateway en Netlify
+- Cuenta de GitHub (gratuita): https://github.com/signup
+- Ser colaborador del repositorio
 
-1. Ve a tu dashboard de Netlify: https://app.netlify.com
-2. Selecciona tu sitio (glosario-odotoponimia)
-3. Ve a **Settings** > **Identity**
-4. Click en **Enable Identity**
-5. Una vez habilitado, ve a **Settings** > **Identity** > **Services** > **Git Gateway**
-6. Click en **Enable Git Gateway**
+## 🚀 Configuración rápida:
 
-### 2. Configurar usuarios permitidos
+### Paso 1: Crear OAuth App en GitHub
 
-1. En **Settings** > **Identity** > **Registration**
-2. Cambia de "Open" a **Invite only** (solo por invitación)
-3. Ve a la pestaña **Identity** en el menú principal
-4. Click en **Invite users**
-5. Añade los correos electrónicos:
-   - luissebastianhuerta@gmail.com
-   - luis.sebastian.lorente@gmail.com
+Sigue las instrucciones detalladas en: **CONFIGURAR-GITHUB-OAUTH.md**
 
-### 3. Aceptar la invitación
+En resumen:
+1. Ve a: https://github.com/settings/developers
+2. Create **"New OAuth App"**
+3. Usa estos datos:
+   - Homepage URL: `https://glosario-odotoponimia.netlify.app`
+   - Callback URL: `https://api.netlify.com/auth/done`
+4. Copia Client ID y Client Secret
 
-1. Revisa tu correo electrónico
-2. Haz click en el enlace de invitación
-3. Crea una contraseña para tu cuenta
+### Paso 2: Configurar en Netlify
 
-### 4. Acceder al CMS
+1. Ve a Netlify Dashboard
+2. Site configuration > Access control > OAuth
+3. Install provider > GitHub
+4. Pega Client ID y Client Secret
 
-Una vez configurado todo:
+### Paso 3: Añadir colaboradores
 
-1. Ve a: **https://tu-sitio.netlify.app/admin/**
-2. Inicia sesión con tu correo y contraseña
-3. ¡Ya puedes editar el glosario!
+1. Ve a: https://github.com/LordOkami/glosario-odotoponimia/settings/access
+2. Add people
+3. Añade los usuarios de GitHub
 
-## Funcionalidades del CMS:
+### Paso 4: Acceder al CMS
 
-### Editar términos existentes:
-- Click en "Glosario" > "Términos del Glosario"
-- Busca el término que quieres editar
-- Haz los cambios necesarios
+1. Ve a: https://glosario-odotoponimia.netlify.app/admin/
+2. Click en "Login with GitHub"
+3. Autoriza la aplicación
+4. ¡Listo!
+
+## 📝 Funcionalidades del CMS:
+
+### Editar términos:
+- Busca el término en la lista
+- Haz los cambios
 - Click en "Save" y luego "Publish"
 
 ### Añadir nuevos términos:
-- Click en "Glosario" > "Términos del Glosario"
-- Scroll hasta el final de la lista de términos
 - Click en "Add Términos"
-- Rellena todos los campos:
-  - **ID**: identificador único (minúsculas, sin acentos, con guiones)
-  - **Término**: nombre del término
-  - **Definición**: definición completa
-  - **Letra**: selecciona la letra correspondiente
-  - **Imagen**: (opcional) sube una imagen
+- Rellena todos los campos
 - Click en "Save" y luego "Publish"
 
 ### Eliminar términos:
-- Click en el término que quieres eliminar
+- Selecciona el término
 - Click en "Delete entry"
-- Confirma la eliminación
-- Click en "Publish"
+- Confirma y publica
 
 ### Subir imágenes:
-- Cuando edites un término, en el campo "Imagen" puedes:
-  - Arrastrar y soltar una imagen
-  - Click en "Choose an image" para seleccionar del servidor
-  - Click en "Upload" para subir una nueva imagen
+- En el campo "Imagen" puedes:
+  - Arrastrar y soltar
+  - Upload nueva imagen
+  - Seleccionar imagen existente
 
-## Notas importantes:
+## 💡 Ventajas de GitHub OAuth:
+
+- 🆓 **100% Gratuito** - Sin límites ni pagos
+- 🔒 **Seguro** - Autenticación de GitHub
+- 📊 **Historial** - Todos los cambios en Git
+- ⚡ **Estable** - No usa servicios deprecados
+- 🎯 **Control** - Decides quién tiene acceso
+
+## ⚠️ Notas importantes:
 
 - Los cambios se guardan como commits en GitHub
-- Cada vez que publicas cambios, se actualiza automáticamente el sitio
-- El deploy puede tardar 1-2 minutos en completarse
-- Puedes ver el historial de cambios en GitHub
+- Cada cambio crea un nuevo deploy (1-2 minutos)
+- Los colaboradores necesitan cuenta de GitHub
+- Solo colaboradores del repo pueden acceder
 
-## Solución de problemas:
+## 🆘 Solución de problemas:
 
-### No puedo acceder a /admin/
-- Verifica que Git Gateway esté habilitado
-- Asegúrate de que Identity esté activado
-- Limpia la caché del navegador
+### No puedo hacer login:
+1. ¿Eres colaborador del repositorio?
+2. ¿Aceptaste la invitación de GitHub?
+3. ¿La OAuth App está configurada en Netlify?
 
 ### Los cambios no se reflejan:
-- Espera 1-2 minutos para el deploy
-- Verifica en Netlify > Deploys que el deploy se completó
-- Limpia la caché del navegador (Ctrl+F5)
+1. Espera 1-2 minutos para el deploy
+2. Limpia caché del navegador (Ctrl+F5)
+3. Verifica en Netlify > Deploys
 
-### Error de autenticación:
-- Verifica que tu correo esté en la lista de usuarios invitados
-- Resetea tu contraseña si es necesario
+### Error de configuración:
+1. Revisa que la callback URL sea: `https://api.netlify.com/auth/done`
+2. Verifica Client ID y Secret en Netlify
+3. Limpia caché e intenta de nuevo
 
-## ¿Necesitas ayuda?
+## 📚 Documentación completa:
 
-Contacta con el administrador o revisa la documentación oficial:
-https://www.netlifycms.org/docs/
+- **Configuración detallada:** CONFIGURAR-GITHUB-OAUTH.md
+- **Debug y solución de problemas:** DEBUG-CMS.md
+- **Decap CMS (Netlify CMS):** https://decapcms.org/docs/
+
+---
+
+**¿Necesitas ayuda?** Revisa CONFIGURAR-GITHUB-OAUTH.md para instrucciones paso a paso.
