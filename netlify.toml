@@ -2,8 +2,8 @@
 # https://docs.netlify.com/configure-builds/file-based-configuration/
 
 [build]
-  # Build command (not needed for static site)
-  command = ""
+  # Build command - generates glosario.json from individual Markdown files
+  command = "npm run build"
   # Publish directory
   publish = "."
 

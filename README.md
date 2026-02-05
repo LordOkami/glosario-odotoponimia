@@ -27,12 +27,21 @@ Una aplicación web moderna y responsive para explorar el glosario completo de t
 ```
 Caminos/
 ├── index.html              # Página principal
+├── admin/
+│   ├── index.html         # Panel de administración (Decap CMS)
+│   └── config.yml         # Configuración del CMS con paginación
+├── content/
+│   ├── terminos/          # Términos individuales en Markdown (para el admin)
+│   └── introduccion.json  # Texto introductorio del glosario
 ├── css/
 │   └── styles.css         # Estilos CSS
 ├── js/
 │   └── app.js             # Lógica de la aplicación
 ├── data/
-│   └── glosario.json      # Datos del glosario (314 términos)
+│   └── glosario.json      # Datos consolidados (generado automáticamente)
+├── scripts/
+│   ├── build-glosario.js  # Script para generar glosario.json
+│   └── migrate-to-markdown.js  # Script de migración inicial
 ├── assets/                # Recursos adicionales (opcional)
 ├── netlify.toml           # Configuración de Netlify
 ├── _headers               # Headers personalizados
@@ -45,8 +54,45 @@ Caminos/
 - **HTML5**: Estructura semántica
 - **CSS3**: Estilos modernos con variables CSS, Grid, Flexbox
 - **JavaScript (Vanilla)**: Funcionalidad sin frameworks
+- **Decap CMS (Netlify CMS)**: Sistema de gestión de contenidos con paginación
 - **Google Fonts**: Inter y Playfair Display
 - **Netlify**: Hosting y despliegue
+
+## 🎯 Sistema de Administración con Paginación
+
+El admin usa **Decap CMS** (antes Netlify CMS) con una arquitectura optimizada:
+
+### Características del Admin
+
+- **Paginación nativa**: Carga términos de 20 en 20 (en lugar de 300+ simultáneos)
+- **Filtros por letra**: Filtra términos por letra del alfabeto
+- **Búsqueda integrada**: Busca términos por nombre
+- **Ordenación**: Ordena por término, letra o fecha de commit
+- **Edición individual**: Cada término es un archivo Markdown separado
+
+### Arquitectura
+
+```
+Admin (Decap CMS)
+    ↓
+content/terminos/*.md (314 archivos individuales)
+    ↓
+[npm run build] - Script de build
+    ↓
+data/glosario.json (archivo consolidado)
+    ↓
+Frontend (app.js) - Lee el JSON consolidado
+```
+
+### Scripts Disponibles
+
+```bash
+# Generar glosario.json a partir de archivos Markdown
+npm run build
+
+# Migrar datos iniciales de JSON a Markdown (solo una vez)
+npm run migrate
+```
 
 ## 🔧 Instalación Local
 
@@ -196,9 +242,27 @@ El archivo `data/glosario.json` contiene 314 términos estructurados:
 
 ### Agregar/Editar Términos
 
-1. Edita `data/glosario.json`
-2. Sigue la estructura existente
-3. Guarda y recarga la página
+#### Opción 1: Usando el Admin (Recomendado)
+
+1. Ve a `/admin` en tu sitio desplegado
+2. Inicia sesión con Netlify Identity
+3. Edita términos existentes o crea nuevos
+4. **Paginación**: El admin carga términos de 20 en 20 para mejor rendimiento
+5. **Filtros por letra**: Usa los filtros por letra para encontrar términos rápidamente
+6. Al guardar, los cambios se commitean automáticamente
+7. El script de build regenera `glosario.json` automáticamente en cada deploy
+
+#### Opción 2: Editar Archivos Markdown Directamente
+
+1. Edita archivos en `content/terminos/` (formato Markdown con frontmatter)
+2. Ejecuta `npm run build` para regenerar `glosario.json`
+3. Commit y push tus cambios
+
+#### Opción 3: Editar JSON Manualmente (No Recomendado)
+
+1. Edita `data/glosario.json` directamente
+2. **IMPORTANTE**: En el próximo deploy, tus cambios se sobrescribirán
+3. Es mejor usar las opciones 1 o 2
 
 ## ⚡ Optimizaciones
 

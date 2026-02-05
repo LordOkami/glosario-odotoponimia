@@ -4,6 +4,8 @@
   "description": "Glosario de Odotoponimia - Descripción de caminos y geografía",
   "type": "module",
   "scripts": {
+    "build": "node scripts/build-glosario.js",
+    "migrate": "node scripts/migrate-to-markdown.js",
     "generate-images": "node generate-images.js",
     "generate:continue": "node generate-images.js",
     "generate:huggingface": "node generate-images-huggingface.js",
