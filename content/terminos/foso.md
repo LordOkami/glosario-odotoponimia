@@ -1,6 +1,6 @@
 ---
 id: foso
-termino: foso
+termino: Foso
 letra: F
 imagen: assets/img/foso.png
 ---
